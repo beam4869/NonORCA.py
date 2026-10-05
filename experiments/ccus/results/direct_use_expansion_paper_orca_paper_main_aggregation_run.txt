@@ -1,0 +1,10 @@
+orca_repo = /Users/hongxuan/Documents/ORCA_python
+method = Wang-Allman 2025 nonlinear modified-gradient interactions
+run_label = paper_main
+active_inequality_tolerance = 1e-06
+alpha_weight = 0.9
+beta_weight = 100.0
+equality_extension = tangent projection with unit weights
+grouping_primary = Leiden, K=2
+grouping_audit = average linkage, K=2
+replicates = 20

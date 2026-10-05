@@ -1,0 +1,15 @@
+completed_at = 2026-08-14T14:24:47.206
+method = normalized weighted sum of TAC and normalized grouped J
+J = 0.50 * normalized TotEmiss + 0.50 * normalized ISI
+reported_objectives = raw TAC, raw TotEmiss, raw ISI, normalized J
+global_optimality = not claimed; deterministic Ipopt multi-start local NLP solves
+weighted_sum_limitation = unsupported nonconvex Pareto points may be missed
+grid_size = 101
+candidate_starts_per_weight = 6
+accepted_weight_solutions = 101
+TAC_lower = 2.540987712061752e6
+TAC_upper = 1.1934630658853052e7
+J_lower = 0.18344344030560558
+J_upper = 0.8034857843049681
+objective_normalization_lower = [2.5409891836715625e6, 32.50039885116243, 4.16910319940448]
+objective_normalization_upper = [3.3246935395562347e7, 124.46120778773843, 20.356737912718565]

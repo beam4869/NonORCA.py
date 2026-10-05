@@ -1,0 +1,5 @@
+Threshold grouping on objective correlation matrix
+threshold = 0.68
+G1 = {f1, f2}
+G2 = {f3}
+G3 = {f4}

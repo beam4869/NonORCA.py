@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-05",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "parameters": {
+    "output_dir": "results/dtlz9_single_objective_starts",
+    "seeds": 10,
+    "objectives": [
+      3,
+      5,
+      10
+    ],
+    "block_sizes": [
+      1,
+      10
+    ],
+    "points_per_seed": 3,
+    "step_size": 0.01
+  },
+  "sampling_runs": 180,
+  "grouping_rows": 1080,
+  "seconds": 15.10472283099989,
+  "endpoint_checks": [
+    {
+      "M": 3,
+      "n": 3,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    },
+    {
+      "M": 3,
+      "n": 30,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    },
+    {
+      "M": 5,
+      "n": 5,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    },
+    {
+      "M": 5,
+      "n": 50,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    },
+    {
+      "M": 10,
+      "n": 10,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    },
+    {
+      "M": 10,
+      "n": 100,
+      "unique_exact_seeds": 2,
+      "assigned_optimal_values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "exact_endpoint_gradient_error": "DTLZ9 derivatives are singular at zero; use regular interior points"
+    }
+  ],
+  "core_changed": false,
+  "seed_tie_break": "Pareto-efficient endpoints, equal allocation within each objective block",
+  "repair_note": "Original project_feasible clips x to [1e-30,1], including before the first derivative evaluation.",
+  "control_note": "All three arms receive M seed entries and identical generator settings. The optima arm has repeated endpoints. The partial-active control uses M starts rather than the older experiment's two.",
+  "sources": {
+    "experiments/dtlz9/run_single_objective_starts.py": "57bf3c1dfba822a7adca4cb102b32e6bed143459f79526005a581393f6b96b83",
+    "experiments/dtlz9/problem.py": "4c20e36efa2da09043a8ea6933d011f3df5853ea84e45567038207f26a6e5c85",
+    "experiments/dtlz9/geometry.py": "75d4af5501c39e764e21e971d08b76207798989d0702cd51f267d78c0f9d5358",
+    "src/orca/nonlinear/fixed_point_generation.py": "7a6d402009900edf7cb7cdf9b99bfe92873d398c6175b0d61a132e590da4a94b"
+  }
+}

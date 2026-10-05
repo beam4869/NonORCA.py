@@ -1,0 +1,4 @@
+                             method  evals  approx_hv  empirical_igd  max_constraint_violation
+                       NSGAIII_full  13600   2.746875       0.365737                       0.0
+ORCA_NSGAIII_reduced_natural_budget   3500   3.861523       0.189034                       0.0
+    ORCA_NSGAIII_reduced_equal_eval  13615   4.076201       0.190686                       0.0

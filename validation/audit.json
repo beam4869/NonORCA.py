@@ -1,0 +1,3652 @@
+{
+  "all_available_checks_passed": true,
+  "checks": [
+    {
+      "name": "source integrity: ORCA_python/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/constrained.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/dtlz.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/lsmop.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/registry.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/benchmarks/wfg.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/config.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/conftest.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/data_schema.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/experiments/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/experiments/baseline_comparison.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/experiments/downstream_optimizer.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/experiments/reduction_study.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/experiments/runtime_scaling.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/linear/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/linear/main.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/linear/matrix_extraction.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/feasible_projection.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/fixed_point_generation.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/gradient_evaluation.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/local_linearization.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/main.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/nonlinear/problem_interface.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/poetry.lock",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/pyproject.toml",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/src/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/src/orca_constants.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/src/orca_main.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/src/orca_utils.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/Jan_2022.xlsx",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_constants.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_constrained_benchmarks.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_experiment_harness.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_nh3.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_nh3_linear_package.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/test/test_nonlinear_benchmarks.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/constraint_projection.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/correlation_aggregation.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/interaction_weights.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/local_objective_interactions.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/objective_grouping.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ORCA_python/utils/vector_normalization.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/Manifest.toml",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/Project.toml",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/original_readmes/ccus_orca_experiments_README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/baseline_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/baseline_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/baseline_solves.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_TAC_EI_key_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_TAC_EI_pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_TAC_EI_pareto_sankey_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_TAC_EI_sankey_links.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_TAC_EI_sankey_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_conditional_info_loss_pilot_endpoints.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_conditional_info_loss_pilot_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_conditional_info_loss_pilot_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_conditional_info_loss_pilot_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_conditional_info_loss_pilot_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_frontier_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_payoff.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_epsilon_normalized_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main21_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_main_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_anchor_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_pilot_witness_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile21_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile_smoke_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile_smoke_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_quantile_smoke_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke5_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke5_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke5_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_info_loss_smoke_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_exact_information_loss_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_grouping_projection_retained_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_orca_network_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_orca_pareto_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_aligned_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_aligned_orca_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_aligned_orca_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_aligned_orca_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_paper_main_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_pilot_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_high_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_points_low_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_high_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_paper_orca_step_low_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_candidate_source_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_full_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_grid_convergence.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_information_loss_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_payoff_table.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_reduced_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_system_structures.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_pareto_validation_summary.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_normalized_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_normalized_payoff.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_normalized_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_normalized_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_reference_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/direct_use_expansion_weighted_sum_supported_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_candidate_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_equality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_findings.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_inequality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_objective_solutions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_orca_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_orca_point_diagnostics.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_orca_pointwise_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_orca_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_orca_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_parameters.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/diversity_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/equality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/inequality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/orca_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/orca_pareto_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/orca_point_diagnostics.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/orca_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/orca_scenario_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_full_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_grid_convergence.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_information_loss_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_payoff_table.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_reduced_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/pareto_validation_summary.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/preliminary_findings.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/recommended_scenarios_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/scenario_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/scenario_solves.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/selected_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_normalization_bounds.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_points_audited.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_slices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_exact_info_loss_quantile21_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_grouping_projection_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_orca_network_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_orca_pareto_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_main_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_high_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_aggregation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_equality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_inequality_jacobian.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_projection_attempts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_paper_orca_condition2_step_low_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_candidate_source_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_full_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_grid_convergence.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_information_loss_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_information_loss_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_pairwise_projection_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_payoff_table.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_reduced_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_solve_log.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_system_structures.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition2_pareto_validation_summary.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition_comparison_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_condition_parameter_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_equality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_inequality_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_orca_pairwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_orca_pointwise.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_parameters.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_ranking.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_solutions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/results/supply_chain_correlation_screen_status.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/analyze_exact_information_loss.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/analyze_grouped_pareto_sankey.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/analyze_paper_orca_results.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/analyze_pareto_orca.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/analyze_supply_chain_correlation_screen.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/plot_epsilon_normalized_ei.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/plot_revised_pareto_demonstrations.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/plot_supply_chain_condition2_pareto.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/plot_supply_chain_condition_comparison.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/plot_weighted_sum_normalized_ei.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/repair_pareto_consistency.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_baseline.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_conditional_information_loss.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_diversity_experiments.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_diversity_orca.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_epsilon_normalized_ei.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_exact_information_loss_frontier.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_orca.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_paper_aligned_orca.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_paper_orca_fixed_points.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_pareto_epsilon.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_scenarios_and_export.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_supply_chain_correlation_screen.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/run_weighted_sum_normalized_ei.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/summarize_pareto_structures.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/src/CCUSModel.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/runtests.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_direct_use_pareto_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_diversity_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_epsilon_normalized_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_exact_information_loss_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_grouped_pareto_sankey_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_orca_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_paper_aligned_orca_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_pareto_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_revised_figure_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_supply_chain_condition2_pareto_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_supply_chain_condition_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/test/test_weighted_sum_normalized_outputs.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/original_readmes/dtlz9_experiments_README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/__init__.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/geometry.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/make_figures.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/make_pareto_degeneracy_figure.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/orca_bridge.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/problem.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/run_phase1_3.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: dtlz9_experiments/test_dtlz9.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/figures/figure1_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/figures/figure2_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/figures/figure3_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase2_derivative_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase2_geometry_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase2_invariance_validation.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase2_representative_matrices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase3_grouping_recovery_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/phase3_grouping_recovery_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: results/dtlz9_phase3/run_manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: reports/dtlz9_phase0_repository_audit.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: reports/dtlz9_phase1_2_validation.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: reports/dtlz9_phase3_grouping_recovery.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/original_readmes/Nonlinear_demonstration_code_README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_bounds_current_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_bounds_gradient_cosine_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_bounds_paper_star_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_bounds_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_current_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_current_strength_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_current_total_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_current_vs_paper_star.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_current_vs_paper_star_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_full_current_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_full_gradient_cosine_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_full_paper_star_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_full_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_gradient_cosine_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_paper_star_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_paper_star_strength_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_paper_star_total_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_ccus_selected_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_current_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_current_strength_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_current_total_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_current_vs_paper_star.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_current_vs_paper_star_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_paper_star_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_paper_star_strength_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_paper_star_total_weight.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/audit_dtlz5_selected_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/correlation_operator_audit.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_correlation_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_groups.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_near_f3_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_near_f3_sensitivity.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_objective_reduction_demo.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_objective_vertices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_projected_directions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_raw_alignment_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_selected_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_step_details.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_total_weight_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/ellipsoid_unprojected_objective_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_case_study_notes.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_case_study_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_correlation_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_groups.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_objective_reduction_demo.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_objective_vertices.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_projected_directions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_raw_alignment_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_selected_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_step_details.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_strength_weight_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_total_weight_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/oval_unprojected_objective_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/plot_ellipsoid_demo_3d.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/plot_ellipsoid_demo_3d_matplotlib.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/plot_oval_objective_cones_matplotlib.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/plot_toy_selected_point_process.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised2_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised3_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised4_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised5_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised6_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised7_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised8_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: Nonlinear_demonstration_code/toy_selected_point_process_revised_caption.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/DTLZ_RESULTS_AND_FIGURE_PLAN.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/dtlz3_pareto_metrics.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/dtlz3_pareto_solutions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/dtlz5_m16_affinity_seed0.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/dtlz5_m16_partitions_seed0.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/generate_dtlz_source_data.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/make_dtlz_paper_figures.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/NETWORK_FIGURE_NOTES.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/generate_dtlz5_network_source_data.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/generate_dtlz6_network_source_data.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/generate_networkx_figure_data.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/make_combined_dtlz5_dtlz6_six_panel.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/make_dtlz_network_grid.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/make_figures_with_original_plot_code.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/make_legible_manuscript_networks.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/make_networkx_original_style_figures.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/networkx_original_code_adjusted/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/networkx_original_code_adjusted_ab_scaled/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/networkx_original_code_adjusted_ab_scaled_adaptive_labels/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/networkx_original_code_exact/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/networkx_original_style/NETWORKX_ALL_LABELS_NOTES.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i2_m3_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i2_m3_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i2_m3_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i3_m5_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i3_m5_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i3_m5_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i4_m7_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i4_m7_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i4_m7_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i6_m10_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i6_m10_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i6_m10_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m12_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m12_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m12_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m16_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m16_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_i7_m16_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_network_cases_seed0.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_network_stability_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz5/dtlz5_network_stability_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/DTLZ6_NETWORK_AUDIT.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/audit_dtlz6_network_cases.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_I2_M3_seed0_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_I3_M5_seed0_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_I4_M7_seed0_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_I6_M10_seed0_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_I7_M16_seed0_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_network_case_audit_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_network_case_audit_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6/dtlz6_network_case_primary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i2_m4_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i2_m4_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i2_m4_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i3_m5_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i3_m5_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i3_m5_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i4_m7_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i4_m7_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i4_m7_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i6_m10_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i6_m10_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i6_m10_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m12_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m12_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m12_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m16_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m16_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_i7_m16_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_network_stability_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/dtlz6_figure/dtlz6_network_stability_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m3_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m3_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m3_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m4_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m4_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i2_m4_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i3_m5_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i3_m5_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i3_m5_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i4_m7_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i4_m7_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i4_m7_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i6_m10_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i6_m10_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i6_m10_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i7_m12_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i7_m12_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz5_i7_m12_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i2_m4_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i2_m4_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i2_m4_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i3_m5_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i3_m5_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i3_m5_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i4_m7_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i4_m7_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i4_m7_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i6_m10_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i6_m10_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i6_m10_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i7_m12_affinity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i7_m12_edges.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/dtlz6_i7_m12_nodes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/networkx_figure_case_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/dtlz_paper/network_grid/source_data/networkx_all_labels/networkx_figure_runs.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/figure3_dtlz5_known_structure_rule_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/figure3_dtlz5_pairwise_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/illustrative_example/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/illustrative_example/illustrative_correlation_matrix.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/illustrative_example/make_illustrative_objective_graph.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/make_algorithm_workflow.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/make_figure3_dtlz5_benchmark.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: figures/make_figure3_dtlz5_known_structure_rule.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/DTLZ5_5_12_legacy_step0005_one_iteration.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: run_dtlz5_5_16_orca_nsga3.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: run_dtlz5_dtlz6_followup.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: run_dtlz6_m16_l2_aggregation.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: run_active_constraint_orca_vs_gradient.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_equal_eval_and_weighted_sum_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m20_point_sensitivity_analytic.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_dtlz6_gradient_grouping_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_dtlz6_gradient_grouping_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_reduction_study_summary_20seeds_n100_approxhv.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_5_16_nsga3_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_equal_eval_and_weighted_sum_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m16_l2_aggregation_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m20_point_sensitivity_analytic_active.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_vs_nsga_analytic_active_grouping.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_active_constraints_vs_gradient_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_runtime_scaling_pilot_n100.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_active_constraints_vs_gradient_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_5_16_nsga3_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_epsilon_constraint_pilot_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_equal_eval_and_weighted_sum_grouping.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_dtlz6_m16_aggregation_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_epsilon_constraint_pilot_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_downstream_steps_1_5_pilot_grouping.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_downstream_steps_1_5_pilot_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m20_point_sensitivity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m20_active_gradient_same_points.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_epsilon_constraint_pilot_grouping.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_vs_nsga_analytic_active_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_reduction_study_raw_20seeds_n100_approxhv.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz6_m16_l2_aggregation_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_dtlz5_dtlz6_m16_aggregation_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_vs_nsga_analytic_active_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/orca_downstream_steps_1_5_pilot_raw.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS 3d pareto test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS constraint test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS final model test tuning.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS final model test tuning_old.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS final model test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS final model.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS model.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS pareto 3D on 2D.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS pareto test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS pareto.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/CCUS test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/ISI test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/ISI test_AA.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/TAC_min_test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/Weighted_sum_reduced_objectives.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/Weighted_sum_test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/Weighted_sum_test_70.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/a nonlienar sample CCUS supply chain model.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/epsilon_reduced_objectives.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/epsilon_reduced_objectives_existing_data.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/new CCUS pareto.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/new mass balance CCUS.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/new mass balance CCUS_AA.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/one variable ccus.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/CCUS_code/vertex test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/DTLZ2 sample.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/NO sp test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/delta size plot.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/delta value test for DTLZ(7,20).jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/delta value test one iteration.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/delta value test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/leiden algorithm reduced function.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/nonlinear algorithm DTLZ2 test.jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/nonlinear algorithm DTLZ5(3,5) correlated test .jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/nonlinear algorithm DTLZ5(4,10) correlated test .jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/legacy_julia/DTLZ_code/nonlinear algorithm DTLZ5(x,7) time performance test .jl",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: LICENSE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: CITATION.cff",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: scripts/reproduce_available.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: docs/manuscript_identity.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_paper_orca_paper_main_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_step_high_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_step_low_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_main_groupings.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_grouping_projection_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_main_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_pareto_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_paper_orca_paper_main_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_exact_info_loss_quantile21_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_exact_info_loss_quantile21_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_pareto_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_pareto_system_structures.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_pareto_information_loss_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_paper_orca_paper_main_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_pareto_pairwise_projection_source.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_main_generation_run.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition_parameter_comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_exact_info_loss_quantile21_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_paper_orca_condition2_main_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_pareto_frontier.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_paper_orca_paper_main_objective_gradients.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition2_pareto_system_structures.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_correlation_screen_ranking.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/direct_use_expansion_exact_info_loss_quantile21_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition_comparison_source_data.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/ccus/supply_chain_condition_orca_analysis.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/dtlz5_5_12_nsga3_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: data/dtlz/dtlz5_5_16_nsga3_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ellipse_correlation_graph.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/dtlz56_networks.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition2_pareto_graph.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/conference_step_size.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ellipse_selected_points.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition2_graph.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition1_pareto_graph.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/dtlz9_geometry.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition1_graph.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/dtlz9_correlations.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition1_candidates.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/dtlz5_sampling_sensitivity.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: paper/reference_figures/ccus_condition2_candidates.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/README_DTLZ5_REPRODUCTION.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/dtlz5_i2_m3_analytic_reproduction_metrics.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/dtlz5_i2_m3_analytic_reproduction_solutions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/dtlz5_i2_m3_analytic_reproduction_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/reproduce_dtlz5_i2_m3_analytic.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: archive/earlier_dtlz5_2_3/requirements_dtlz5_historical.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "source integrity: ccus_orca_experiments/scripts/summarize_raw_gradient_cosine.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: objectives",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: evaluations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: total_time_mean_s",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: total_time_sd_s",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: approx_hv_mean",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: approx_hv_sd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: empirical_igd_mean",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: empirical_igd_sd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: seeds",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 2: timing scope",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 1 effective_carbon_loss",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 1 safety_index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 1 processing_cost",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 2 effective_carbon_loss",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 2 safety_index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 3: condition 2 processing_cost",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: A=(1+signed)/2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 1, TAC + total emissions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: two archived ORCA summaries agree for TAC__TotEmiss",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 1, TAC + ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: two archived ORCA summaries agree for TAC__ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 1, Total emissions + ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: two archived ORCA summaries agree for TotEmiss__ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: archived main replicate count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: leiden stored partitions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: average stored partitions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: gradient row count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: finite 82-dimensional gradients",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: frontier size",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: unique frontier IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: finite raw objectives and decisions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 1: archived max_abs_equality",
+      "passed": true,
+      "detail": 7.961263145771431e-16
+    },
+    {
+      "name": "condition 1: archived max_inequality_violation",
+      "passed": true,
+      "detail": 9.994439454082633e-09
+    },
+    {
+      "name": "condition 1: archived epsilon_violation",
+      "passed": true,
+      "detail": 1.3014789558942164e-08
+    },
+    {
+      "name": "condition 2: A=(1+signed)/2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 2, TAC + total emissions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: two archived ORCA summaries agree for TAC__TotEmiss",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 2, TAC + ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: two archived ORCA summaries agree for TAC__ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table 4: condition 2, Total emissions + ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: two archived ORCA summaries agree for TotEmiss__ISI",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: archived main replicate count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: leiden stored partitions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: average stored partitions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: gradient row count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: finite 82-dimensional gradients",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: frontier size",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: unique frontier IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: finite raw objectives and decisions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: archived max_abs_equality",
+      "passed": true,
+      "detail": 6.496390726949487e-16
+    },
+    {
+      "name": "condition 2: archived max_inequality_violation",
+      "passed": true,
+      "detail": 9.981773661350036e-09
+    },
+    {
+      "name": "condition 2: archived epsilon_violation",
+      "passed": true,
+      "detail": 1.0146903025483882e-08
+    },
+    {
+      "name": "condition 2: archived projection x agrees with frontier min/max",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "condition 2: archived projection y agrees with frontier min/max",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "notes": [
+    "Checks validate supplied artifacts and rounded manuscript tables, not fresh optimization runs.",
+    "Condition 2 stored *_normalized columns differ from min/max of the supplied full frontier (ISI: about 0.007095; TAC: about 0.0000802). Original files are unchanged. New plots use full-frontier min/max, which agrees with archived pairwise plot coordinates within 2e-7.",
+    "Local source recovery supplies the nonlinear Python core, ellipse/DTLZ5/6/9 runners, CCUS drivers and Julia lockfile. Run verify_local_sources.py for numerical source-to-result checks.",
+    "Julia is not available in the preparation environment; CCUS NLP solves have not been rerun here."
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "full_manuscript_reproduction": false
+}

@@ -1,0 +1,4 @@
+case,operator,objectives,selected_points,iterations_per_seed,step_scale,appended_zero_seeds,final_ineq_mode,requested_groups,partition,group_sets
+CCUS,current-code,"(:TotEmiss, :TAC, :InherSafeIndic)",147,20,1.0,true,full,2,"[[1, 2, 3]]","[[1, 2, 3]]"
+CCUS,paper-star,"(:TotEmiss, :TAC, :InherSafeIndic)",147,20,1.0,true,full,2,"[[1, 2, 3]]","[[1, 2, 3]]"
+CCUS,gradient-cosine,"(:TotEmiss, :TAC, :InherSafeIndic)",147,20,1.0,true,full,2,"[[1, 2, 3]]","[[1, 2, 3]]"

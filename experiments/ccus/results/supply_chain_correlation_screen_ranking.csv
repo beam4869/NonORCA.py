@@ -1,0 +1,66 @@
+screen_rank,scenario,TAC__ISI,TAC__TotEmiss,TotEmiss__ISI,target_margin,target_is_strongest,group_TAC_k2,group_TotEmiss_k2,group_ISI_k2,target_same_group_k2,mechanism
+1,operating_alignment_limit_safety,0.8195870975865289,1.0,0.8195870975865289,0.18041290241347108,True,1,1,2,True,Operating-limit case with an independent low-ISI route.
+2,operating_alignment_limit,0.8254977426454135,1.0,0.8254977426454135,0.17450225735458647,True,1,1,2,True,Mechanism limit with zero annualized capital contribution.
+3,operating_alignment_limit_capacity,0.8606857759008784,1.0,0.8606857759008784,0.13931422409912164,True,1,1,2,True,Operating-limit case with rebalanced sink/treatment capacities.
+4,operating_alignment_limit_capacity_supply,0.8608943746830433,1.0,0.8608943746830433,0.1391056253169567,True,1,1,2,True,Operating-limit case with capacity and source changes.
+5,carbon_cost_alignment_1,-0.2025199500942415,0.2272109783609806,0.17535559918726729,0.0518553791737133,True,1,1,2,True,Aligns sink processing cost with carbon loss at the base operating-cost scale.
+6,carbon_cost_alignment_10,-0.20097705554460266,0.225314422164274,0.17537313623338924,0.04994128593088476,True,1,1,2,True,Carbon-loss-aligned sink cost with tenfold shared operating terms.
+7,carbon_cost_alignment_1_capacity,-0.27129282653980835,0.23513085981990978,0.18975945963122576,0.04537140018868402,True,1,1,2,True,Base-scale carbon-loss-aligned costs with rebalanced capacities.
+8,carbon_cost_alignment_1_capacity_supply,-0.30819535029795153,0.23275869585853326,0.1899660867322157,0.04279260912631755,True,1,1,2,True,Base-scale carbon-loss-aligned costs under capacity and source changes.
+9,carbon_cost_alignment_10_capacity_supply,-0.3072897368301206,0.2318909046074893,0.1900266213521007,0.0418642832553886,True,1,1,2,True,Carbon-loss-aligned costs under capacity and source changes.
+10,carbon_cost_alignment_10_capacity,-0.2668830506781119,0.23073145184874955,0.1897948125513016,0.04093663929744795,True,1,1,2,True,Carbon-loss-aligned costs with rebalanced sink/treatment capacities.
+11,carbon_cost_alignment_100_capacity,-0.2643553273532575,0.2106566932179863,0.18974011044003225,0.02091658277795405,True,1,1,2,True,Hundredfold carbon-loss-aligned costs with rebalanced capacities.
+12,carbon_cost_alignment_100,-0.18658024257444106,0.1927990597563336,0.17538822263426423,0.017410837122069367,True,1,1,2,True,Carbon-loss-aligned sink cost with hundredfold shared operating terms.
+13,carbon_cost_alignment_100_capacity_supply,-0.26893800567675985,0.12492428017467949,0.19003662609988403,-0.06511234592520454,False,1,2,2,False,Hundredfold carbon-loss-aligned costs under capacity and source changes.
+14,operating_scale_1000_crf01,0.5735939022932204,0.7195472260292688,0.8256969683801676,-0.1061497423508988,False,1,2,2,False,Thousandfold shared operating costs with a 0.01 capital recovery factor.
+15,energy_high_loss_strong_safety,0.5447629169746286,0.5344269777398554,0.6485438702234598,-0.11411689248360446,False,1,2,2,False,Strong energy-carbon alignment with safety decoupling.
+16,operating_scale_10000,0.5636975736902463,0.7096605120777311,0.8257103277438802,-0.11604981566614914,False,1,2,2,False,Mechanism-limit high operating costs with the original capital recovery factor.
+17,combined_tight_capacity,0.5461555574945753,0.515611397683333,0.6491989586456997,-0.13358756096236668,False,1,2,2,False,Strong alignment with tight sink/treatment capacities.
+18,loss_mild,0.5080232571423309,0.5162722390368235,0.6940370830642175,-0.177764844027394,False,1,2,2,False,Makes the low-cost Urea route lower-loss while retaining saline storage.
+19,operating_scale_1000,0.5552439448939472,0.6463488212596822,0.8257054165064157,-0.17935659524673353,False,1,2,2,False,Thousandfold shared operating and treatment costs with the original capital recovery factor.
+20,operating_scale_100_crf01,0.5389820134854115,0.6108738137847007,0.8257007034559463,-0.21482688967124552,False,1,2,2,False,Hundredfold shared operating costs with a 0.01 capital recovery factor.
+21,combined_supply_shift,0.3634665871740619,0.4214652363816942,0.6507519173590794,-0.22928668097738525,False,1,2,2,False,Strong alignment under changed source availability.
+22,operating_scale_10_crf01,0.524696234360591,0.5869154390052369,0.8256849124496322,-0.23876947344439525,False,1,2,2,False,Tenfold shared operating costs with a 0.01 capital recovery factor.
+23,operating_scale_100,0.5251738589604433,0.5869074442093121,0.8256995598920631,-0.23879211568275105,False,1,2,2,False,Hundredfold shared operating and treatment costs with the original capital recovery factor.
+24,operating_alignment_crf_001,0.5243414957766017,0.5865937503801515,0.8256884468141601,-0.2390946964340086,False,1,2,2,False,Operating-alignment mechanism with a 0.001 capital recovery factor.
+25,operating_alignment_crf_01,0.523985525155203,0.5859307315776117,0.825680049301055,-0.23974931772344332,False,1,2,2,False,Operating-alignment mechanism with a 0.01 capital recovery factor.
+26,shared_operations_strong,0.5233461927837253,0.5849070918698311,0.8251859743579555,-0.24027888248812435,False,1,2,2,False,Mechanism-limit case in which TAC and emissions are almost entirely shared operating terms.
+27,operating_scale_10,0.5241815190898929,0.582845442684105,0.8257115492427738,-0.2428661065586688,False,1,2,2,False,Tenfold shared operating and treatment costs with the original capital recovery factor.
+28,loss_strong_safety,0.10225969916054267,0.34924523965410614,0.5966246943874358,-0.24737945473332967,False,1,2,2,False,Strong loss alignment plus ISI-decoupled safety coefficients.
+29,shared_operations_mild,0.4959446169308066,0.5467405317987712,0.7988888223516186,-0.2521482905528474,False,1,2,2,False,Makes treatment and operating energy shared cost-emission drivers while retaining moderate capital and sink terms.
+30,shared_operations_moderate,0.5042557012784266,0.5608192005167312,0.8182583619153145,-0.25743916139858336,False,1,2,2,False,Makes treatment and operating energy dominant shared drivers with small residual sink losses.
+31,supply_chain_condition1,0.5341526679490851,0.5030620298227986,0.7673586374830914,-0.26429660766029284,False,1,2,2,False,Frozen original direct-use-expansion supply chain.
+32,supply_shift,0.5380961287488817,0.5038462907319885,0.7736561178735082,-0.2698098271415197,False,1,2,2,False,Reduces availability of the lower-concentration source streams.
+33,energy_high,0.544240911421469,0.5256553202071581,0.7972900095537769,-0.27163468934661883,False,1,2,2,False,Strongly couples energy cost and power-related emissions.
+34,energy_mild,0.5341409125827841,0.5121588169076068,0.7853046410623867,-0.27314582415477995,False,1,2,2,False,Moderately couples energy cost and power-related emissions.
+35,energy_high_loss_mild_safety,0.39373078121261074,0.3922400311415122,0.7002218460953973,-0.3079818149538851,False,1,2,2,False,"Energy, carbon-loss, and safety mechanisms combined."
+36,loss_strong,0.13373651411278842,0.3271294020495976,0.6426178774166349,-0.3154884753670373,False,1,2,2,False,Strong economic-carbon alignment across Urea and competing sinks.
+37,energy_high_loss_strong,0.15912300939083313,0.34888908993434953,0.6875891819273956,-0.33870009199304607,False,1,2,2,False,High energy coupling plus strong sink loss alignment.
+38,combined_balanced_capacity,0.3932953072227985,0.2969678191409144,0.6523811874030647,-0.3554133682621503,False,1,2,2,False,Strong alignment with rebalanced sink/treatment capacities.
+39,combined_balanced_supply,0.3891541814849431,0.2738450216986794,0.6540495049778952,-0.38020448327921574,False,1,2,2,False,Strong alignment with capacity and source-availability changes.
+40,combined_tight_supply,0.3859402364586044,0.26701437375331505,0.650704309867191,-0.3836899361138759,False,1,2,2,False,Strong alignment under tight capacities and changed source availability.
+41,carbon_cost_alignment_1000,-0.22877013125408396,-0.23450284569154556,0.1753841759000827,-0.40988702159162826,False,1,2,2,False,Carbon-loss-aligned sink cost with thousandfold shared operating terms.
+42,loss_mild_safety,0.337648564508251,0.23031207987229663,0.6499447061997583,-0.4196326263274617,False,1,2,2,False,Mild loss alignment plus ISI-decoupled safety coefficients.
+43,combined_capture_50,0.20172109342817324,0.21509940107142,0.6523797385643295,-0.4372803374929095,False,1,2,2,False,"Strong alignment, balanced capacities, and a 50% capture target."
+44,capacity_balanced,0.2203586869252374,0.31812748813507685,0.76170358797474,-0.4435760998396632,False,1,2,2,False,Rebalances sink/treatment capacities without changing objective coefficients.
+45,combined_capture_60,0.21887590937898627,0.20576015769744238,0.6496815887984879,-0.44392143110104554,False,1,2,2,False,"Strong alignment, expanded capacities, and a 60% capture target."
+46,capacity_tight,0.21021722208759575,0.25532849283426273,0.7613765316045233,-0.5060480387702606,False,1,2,2,False,Tightens all preferred sink/treatment capacities.
+47,energy_high_loss_mild,0.0895701627165797,0.17453825079829333,0.7357804885614638,-0.5612422377631705,False,1,2,2,False,High energy coupling plus mild sink loss alignment.
+48,safety_decoupled,0.01554354700954974,0.15486542546713356,0.7270302868732279,-0.5721648614060943,False,1,2,2,False,Makes ISI prefer Greenhouse while penalizing the low-loss sinks.
+49,energy_high_safety,0.01759712287581161,0.10808359436741144,0.765993551500034,-0.6579099571326226,False,1,2,2,False,High energy coupling plus ISI-decoupled safety coefficients.
+50,shared_moderate_tight_capacity,0.11932801041630281,0.1369730268019591,0.8312044823258415,-0.6942314555238824,False,1,2,2,False,Moderate shared operations under tight sink/treatment capacities.
+51,operating_scale_100_crf01_capacity_supply,0.16040367803524447,0.16175170030454078,0.8611759004264465,-0.6994242001219058,False,1,2,2,False,"Hundredfold shared operating costs, lower capital recovery, capacity changes, and source changes."
+52,shared_moderate_safety_extreme,0.12777132561978077,0.09346931013921211,0.8013028005224228,-0.7078334903832106,False,1,2,2,False,Moderate shared operations with a stronger independent ISI contrast.
+53,operating_alignment_001_capacity_supply,0.1530574672807714,0.1482519979326229,0.8611626135290731,-0.7129106155964502,False,1,2,2,False,Near-operating-limit case with capacity and source changes.
+54,shared_strong_capacity_supply,0.1582779943726178,0.14714894066561213,0.8636516995774444,-0.7165027589118322,False,1,2,2,False,Mechanism-limit shared operations with capacity and source changes.
+55,shared_moderate_supply,0.10970739961954257,0.0809567125084174,0.8017840102576674,-0.72082729774925,False,1,2,2,False,Moderate shared operations under changed source availability.
+56,shared_strong_safety,0.1122941095716683,0.08714357384772797,0.8300719742423119,-0.742928400394584,False,1,2,2,False,Strong shared-operations case with safety decoupling.
+57,shared_moderate_capacity_supply,0.04406032389398096,0.08989388824095457,0.8341014022076281,-0.7442075139666735,False,1,2,2,False,Moderate shared operations with both capacity and source changes.
+58,shared_mild_safety,-0.005168466033895647,0.02857603268431297,0.780069391649044,-0.751493358964731,False,1,2,2,False,Mild shared-operations case with an independently low-ISI Greenhouse route.
+59,operating_alignment_001_safety,0.14507769309586682,0.06469928141714898,0.8198541477087546,-0.7551548662916057,False,1,2,2,False,Near-operating-limit case with an independent low-ISI route.
+60,shared_strong_safety_extreme,0.1452630747807233,0.061159228789408715,0.8207232534431501,-0.7595640246537414,False,1,2,2,False,Strong shared operations with a stronger independent ISI contrast.
+61,shared_moderate_capacity,-0.08272032020992348,0.019462769844537098,0.8337011483286332,-0.8142383784840961,False,1,2,2,False,Moderate shared operations under rebalanced sink/treatment capacities.
+62,shared_moderate_safety,0.00919105766818884,-0.016144708870865276,0.81141298225694,-0.8275576911278053,False,1,2,2,False,Moderate shared-operations case with safety decoupling.
+63,operating_scale_1000_safety_capacity,-0.10893919778358818,0.00920979093577734,0.8609906061018633,-0.851780815166086,False,1,2,2,False,Thousandfold shared operating costs with safety and capacity changes.
+64,operating_scale_100_safety_capacity,-0.1153118379988346,-0.02538848310762165,0.8610039643989105,-0.8863924475065321,False,1,2,2,False,Hundredfold shared operating costs with safety and capacity changes.
+65,operating_alignment_001_capacity,-0.12773776542973403,-0.04224702808343983,0.8609958928000805,-0.9032429208835203,False,1,2,2,False,Near-operating-limit case with rebalanced sink/treatment capacities.

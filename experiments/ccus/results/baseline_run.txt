@@ -1,0 +1,5 @@
+started_at = 2026-08-09T19:14:58.273
+julia_version = 1.10.0
+capture_target = 0.4
+co2_generation_kt_y = 1258.95
+all_required_solves_feasible = true

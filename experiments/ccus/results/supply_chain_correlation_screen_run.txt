@@ -1,0 +1,6 @@
+completed_at = 2026-08-24T17:32:33.191
+condition1 = exact alias of prior direct_use_expansion_parameters
+candidate_scenarios = 65
+accepted_objective_solutions = 195
+screening_method = three single-objective optima with deterministic cross-start Ipopt
+global_optimality = not claimed

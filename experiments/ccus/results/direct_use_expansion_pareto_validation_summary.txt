@@ -1,0 +1,12 @@
+method = Russell & Allman section 4.1 adapted to a continuous frontier
+profile = direct_use_expansion
+candidate_points = 1015
+nondominated_unique_points = 225
+top_ORCA_group = Total emissions + ISI
+lowest_information_loss_group = TAC + total emissions
+best_reduced_frontier_coverage_group = TAC + total emissions
+spearman_rank_correlation = 0.5
+spearman_pvalue_descriptive_only_n3 = 0.6666666666666666
+kendall_tau = 0.33333333333333337
+kendall_pvalue_descriptive_only_n3 = 1.0
+global_optimality = not claimed; deterministic local NLP frontier approximation

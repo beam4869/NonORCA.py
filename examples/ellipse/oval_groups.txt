@@ -1,0 +1,6 @@
+Objective grouping returned by ORCA_python.nonlinear.nonlinear_orca
+grouping_method = average_linkage
+requested_groups = 3
+G1 = {f1, f2}
+G2 = {f3}
+G3 = {f4}

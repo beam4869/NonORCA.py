@@ -1,0 +1,14 @@
+completed_at = 2026-08-24T17:25:27.632
+profile = supply_chain_condition2
+method = Wang-Allman 2025 equations 3-4 mirrored in Julia with Ipopt projection
+run_label = condition2_step_low
+step_size = 0.01
+points_per_seed_additional = 20
+replicates = 5
+first_random_seed = 20260901
+selected_points = 315
+projection_attempts = 300
+projection_failures = 0
+duplicate_rejections = 0
+max_abs_equality = 4.872293045212116e-16
+max_inequality_violation = 5.870560130075522e-9

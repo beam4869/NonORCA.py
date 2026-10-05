@@ -1,0 +1,3 @@
+# Python 3.12 validation environment. Historical locks remain in the source folders.
+-r environments/validation/requirements-lock.txt
+-e .

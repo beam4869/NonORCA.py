@@ -1,0 +1,43 @@
+grouping,metric,resolution,information_loss,valid_slices
+TAC + total emissions,equal_width_bins,8,0.5058095507913958,8
+TAC + total emissions,equal_width_bins,10,0.4729027096481989,10
+TAC + total emissions,equal_width_bins,12,0.44095377663353524,12
+TAC + total emissions,equal_width_bins,15,0.41287592524951744,15
+TAC + total emissions,equal_width_bins,18,0.379231880741417,18
+TAC + total emissions,equal_width_bins,20,0.3715510626413435,20
+TAC + total emissions,equal_width_bins,25,0.3432721007007696,25
+TAC + total emissions,equal_width_bins,30,0.34774655904190405,30
+TAC + total emissions,nearest_neighbor_slices,8,0.3285218613318549,21
+TAC + total emissions,nearest_neighbor_slices,12,0.37280522546752987,21
+TAC + total emissions,nearest_neighbor_slices,16,0.3896517361095573,21
+TAC + total emissions,nearest_neighbor_slices,20,0.41478311582883653,21
+TAC + total emissions,nearest_neighbor_slices,24,0.4444270362716882,21
+TAC + total emissions,nearest_neighbor_slices,30,0.47646360576445607,21
+TAC + ISI,equal_width_bins,8,0.5237856757118391,8
+TAC + ISI,equal_width_bins,10,0.48027938712510654,9
+TAC + ISI,equal_width_bins,12,0.4752387530902555,11
+TAC + ISI,equal_width_bins,15,0.432633846459723,13
+TAC + ISI,equal_width_bins,18,0.41938207855100684,16
+TAC + ISI,equal_width_bins,20,0.3957589068242598,17
+TAC + ISI,equal_width_bins,25,0.3835042634642631,21
+TAC + ISI,equal_width_bins,30,0.37620800386680614,25
+TAC + ISI,nearest_neighbor_slices,8,0.39587253929686544,21
+TAC + ISI,nearest_neighbor_slices,12,0.4502184221129627,21
+TAC + ISI,nearest_neighbor_slices,16,0.506694979116889,21
+TAC + ISI,nearest_neighbor_slices,20,0.5505226427990246,21
+TAC + ISI,nearest_neighbor_slices,24,0.5998190079403086,21
+TAC + ISI,nearest_neighbor_slices,30,0.6252224786424837,21
+Total emissions + ISI,equal_width_bins,8,0.9622372053896903,4
+Total emissions + ISI,equal_width_bins,10,0.9432392656282957,5
+Total emissions + ISI,equal_width_bins,12,0.8571167626483812,6
+Total emissions + ISI,equal_width_bins,15,0.8399282476449977,7
+Total emissions + ISI,equal_width_bins,18,0.8490368277759246,8
+Total emissions + ISI,equal_width_bins,20,0.8655178807391537,8
+Total emissions + ISI,equal_width_bins,25,0.7772178078491363,10
+Total emissions + ISI,equal_width_bins,30,0.7615754387259961,12
+Total emissions + ISI,nearest_neighbor_slices,8,0.4607505386891992,21
+Total emissions + ISI,nearest_neighbor_slices,12,0.5960540640151255,21
+Total emissions + ISI,nearest_neighbor_slices,16,0.6453057310223043,21
+Total emissions + ISI,nearest_neighbor_slices,20,0.7469236936282869,21
+Total emissions + ISI,nearest_neighbor_slices,24,0.8561589743915083,21
+Total emissions + ISI,nearest_neighbor_slices,30,0.9536929187350286,21

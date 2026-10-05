@@ -1,0 +1,13 @@
+completed_at = 2026-08-10T00:17:04.547
+method = deterministic augmented epsilon-constraint
+global_optimality = not claimed; Ipopt local NLP solves
+full_grid_size_TAC = 21
+full_grid_size_TotEmiss = 5
+full_grid_size_ISI = 5
+reduced_grid_size = 41
+augmentation = 0.001
+deterministic_starts_per_target = 3; all remaining anchors if none succeeds
+accepted_full_points = 457
+accepted_reduced_points = 123
+objective_lower = [9.077184685277019e6, 34.62525343204514, 9.684501632058875]
+objective_upper_payoff = [1.0815980166267505e7, 121.29979212609419, 33.98343805078173]

@@ -1,0 +1,28 @@
+grouping,orientation,retained,retained_index,retained_fraction,retained_target,swept,epsilon_index,epsilon_fraction,swept_target,attempts,successful_starts,accepted,retained_active
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,2,0.5,124.95605808265282,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,3,0.0,124.46116998169904,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.26666905738540103,8.485805928423412,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.26666905738540103,8.485805928423412,TotEmiss,2,0.5,87.4768055657184,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.26666905738540103,8.485805928423412,TotEmiss,3,0.0,49.50266494783018,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,1.0,20.35660551843815,TotEmiss,1,1.0,125.45094618360662,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,3,1.0,20.35660551843815,TotEmiss,2,0.5,78.97557837613707,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,3,1.0,20.35660551843815,TotEmiss,3,0.0,32.50021056866753,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,1,1.0,20.35660551843815,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,2,0.5,15.232385285559285,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,3,0.0,10.108165052680418,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.4616986907820919,75.41544350931727,ISI,1,1.0,20.35660551843815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.4616986907820919,75.41544350931727,ISI,2,0.5,13.611823989288201,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.4616986907820919,75.41544350931727,ISI,3,0.0,6.867042460138251,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,1.0,125.4509461836066,ISI,1,1.0,20.35660551843815,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,1.0,125.4509461836066,ISI,2,0.5,12.2628521390356,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,1.0,125.4509461836066,ISI,3,0.0,4.169098759633046,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,2,0.5,20.35655993514206,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,3,0.0,20.356514351845963,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.7432093444048824,2.6775606012740787e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.7432093444048824,2.6775606012740787e7,ISI,2,0.5,13.881617895130951,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.7432093444048824,2.6775606012740787e7,ISI,3,0.0,7.406630271823749,5,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,1.0,3.514905227239132e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,3,1.0,3.514905227239132e7,ISI,2,0.5,12.2628521390356,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,3,1.0,3.514905227239132e7,ISI,3,0.0,4.169098759633046,3,3,true,false

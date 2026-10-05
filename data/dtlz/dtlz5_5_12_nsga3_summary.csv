@@ -1,0 +1,3 @@
+method,objectives,evaluations,nsga3_time_mean_s,nsga3_time_sd_s,approx_hv_mean,approx_hv_sd,empirical_igd_mean,empirical_igd_sd,optimizer_seeds,orca_time_included
+Full NSGA-III,12,7800,1.051,0.043,1.735,0.118,0.434,0.078,20,no
+ORCA-reduced NSGA-III,5,3500,0.492,0.028,2.313,0.134,0.053,0.015,20,no

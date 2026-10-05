@@ -1,0 +1,4 @@
+method,labels,num_groups,ari_vs_known,exact_match
+known structure,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,5,1,1
+average linkage (fixed K=5),1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,5,1,1
+Leiden (target K=5),1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2,2,0.897959183673,0

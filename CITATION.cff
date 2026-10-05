@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated ORCA manuscript. Publication metadata should be updated when available."
+type: software
+title: "ORCA manuscript materials: recovered code and data"
+authors:
+  - family-names: Wang
+    given-names: Hongxuan
+  - family-names: Allman
+    given-names: Andrew
+preferred-citation:
+  type: generic
+  title: "ORCA: The Objective Reduction Community Algorithm for nonlinear many-objective optimization problems"
+  authors:
+    - family-names: Wang
+      given-names: Hongxuan
+    - family-names: Allman
+      given-names: Andrew
+  notes: "Manuscript; publication status and DOI not assigned in this preparation snapshot."

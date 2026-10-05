@@ -1,0 +1,11 @@
+run_label,replicate,rng_seed,step_size,points_per_seed,selected_points,constraint_handling,leiden_TAC,leiden_TotEmiss,leiden_ISI,average_TAC,average_TotEmiss,average_ISI
+points_high,1,20251201,0.03,80,243,equality_tangent,1,2,2,1,2,2
+points_high,1,20251201,0.03,80,243,inequalities_only,1,2,2,1,2,2
+points_high,2,20251202,0.03,80,243,equality_tangent,1,2,2,1,2,2
+points_high,2,20251202,0.03,80,243,inequalities_only,1,2,2,1,2,2
+points_high,3,20251203,0.03,80,243,equality_tangent,1,2,2,1,2,2
+points_high,3,20251203,0.03,80,243,inequalities_only,1,2,2,1,2,2
+points_high,4,20251204,0.03,80,243,equality_tangent,1,2,2,1,2,2
+points_high,4,20251204,0.03,80,243,inequalities_only,1,2,2,1,2,2
+points_high,5,20251205,0.03,80,243,equality_tangent,1,2,2,1,2,2
+points_high,5,20251205,0.03,80,243,inequalities_only,1,2,2,1,2,2

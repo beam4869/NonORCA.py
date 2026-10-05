@@ -1,0 +1,4 @@
+retained_resolution,epsilon_resolution,grouping,requested_slices,represented_slices,multi_point_slices,mean_information_loss,sd_across_slices,min_information_loss,max_information_loss,rank
+5,7,TAC + ISI,5,5,2,0.203035774,0.45399333800249553,0.0,1.015163746,3
+5,7,TAC + total emissions,5,5,2,0.1693472966,0.3786026968079819,0.0,0.846612383,2
+5,7,Total emissions + ISI,5,5,1,1.3727999999879613e-06,3.0696741194847924e-06,0.0,6.863999999939807e-06,1

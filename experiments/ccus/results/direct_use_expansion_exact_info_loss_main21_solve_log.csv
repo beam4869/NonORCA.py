@@ -1,0 +1,694 @@
+grouping,orientation,retained,retained_index,retained_fraction,retained_target,swept,epsilon_index,epsilon_fraction,swept_target,attempts,successful_starts,accepted,retained_active
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,2,0.95,125.40145737351122,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,3,0.9,125.35196856341585,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,4,0.85,125.30247975332047,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,5,0.8,125.25299094322509,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,6,0.75,125.20350213312972,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,7,0.7,125.15401332303433,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,8,0.65,125.10452451293895,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,9,0.6,125.05503570284358,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,10,0.55,125.0055468927482,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,11,0.5,124.95605808265282,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,12,0.45,124.90656927255745,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,13,0.4,124.85708046246206,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,14,0.35,124.8075916523667,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,15,0.3,124.75810284227131,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,16,0.25,124.70861403217593,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,17,0.2,124.65912522208056,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,18,0.15,124.60963641198518,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,19,0.1,124.5601476018898,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,20,0.05,124.51065879179443,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,1,0.0,4.169098759633046,TotEmiss,21,0.0,124.46116998169904,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,2,0.95,124.06926522048775,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,3,0.9,122.68758425736888,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,4,0.85,121.30590329425003,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,5,0.8,119.92422233113118,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,6,0.75,118.54254136801231,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,7,0.7,117.16086040489344,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,8,0.65,115.77917944177459,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,9,0.6,114.39749847865573,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,10,0.55,113.01581751553687,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,11,0.5,111.63413655241801,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,12,0.45,110.25245558929916,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,13,0.4,108.87077462618029,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,14,0.35,107.48909366306144,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,15,0.3,106.10741269994257,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,16,0.25,104.72573173682372,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,17,0.2,103.34405077370486,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,18,0.15,101.962369810586,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,19,0.1,100.58068884746714,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,20,0.05,99.19900788434828,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,2,0.1,5.787849435513557,TotEmiss,21,0.0,97.81732692122942,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,2,0.95,122.33609897165846,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,3,0.9,119.22125175971031,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,4,0.85,116.10640454776217,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,5,0.8,112.99155733581401,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,6,0.75,109.87671012386588,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,7,0.7,106.76186291191772,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,8,0.65,103.64701569996957,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,9,0.6,100.53216848802143,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,10,0.55,97.41732127607328,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,11,0.5,94.30247406412514,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,12,0.45,91.18762685217699,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,13,0.4,88.07277964022884,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,14,0.35,84.95793242828069,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,15,0.3,81.84308521633254,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,16,0.25,78.7282380043844,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,17,0.2,75.61339079243625,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,18,0.15,72.4985435804881,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,19,0.1,69.38369636853996,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,20,0.05,66.26884915659181,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,3,0.2,7.406600111394068,TotEmiss,21,0.0,63.15400194464366,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,1,1.0,125.4509461836066,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,2,0.95,121.51215927664731,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,3,0.9,117.57337236968803,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,4,0.85,113.63458546272874,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,5,0.8,109.69579855576946,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,6,0.75,105.75701164881016,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,7,0.7,101.81822474185088,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,8,0.65,97.8794378348916,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,9,0.6,93.9406509279323,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,10,0.55,90.00186402097302,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,11,0.5,86.06307711401374,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,12,0.45,82.12429020705444,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,13,0.4,78.18550330009515,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,14,0.35,74.24671639313587,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,15,0.3,70.30792948617658,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,16,0.25,66.3691425792173,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,17,0.2,62.430355672258,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,18,0.15,58.491568765298716,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,19,0.1,54.55278185833943,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,20,0.05,50.61399495138014,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,4,0.3,9.02535078727458,TotEmiss,21,0.0,46.675208044420856,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,11,0.5,78.97557837613707,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,12,0.45,74.32804159539012,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,13,0.4,69.68050481464317,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,14,0.35,65.03296803389621,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,15,0.3,60.38543125314926,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,16,0.25,55.7378944724023,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,17,0.2,51.09035769165535,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,18,0.15,46.442820910908395,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,19,0.1,41.79528413016144,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,20,0.05,37.14774734941449,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,5,0.4,10.644101463155089,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,11,0.5,78.97557837613707,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,12,0.45,74.32804159539012,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,13,0.4,69.68050481464317,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,14,0.35,65.03296803389621,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,15,0.3,60.38543125314926,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,16,0.25,55.7378944724023,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,17,0.2,51.09035769165535,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,18,0.15,46.442820910908395,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,19,0.1,41.79528413016144,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,20,0.05,37.14774734941449,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,6,0.5,12.2628521390356,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,11,0.5,78.97557837613707,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,12,0.45,74.32804159539012,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,13,0.4,69.68050481464317,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,14,0.35,65.03296803389621,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,15,0.3,60.38543125314926,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,16,0.25,55.7378944724023,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,17,0.2,51.09035769165535,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,18,0.15,46.442820910908395,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,19,0.1,41.79528413016144,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,20,0.05,37.14774734941449,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,7,0.6,13.88160281491611,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,11,0.5,78.97557837613707,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,12,0.45,74.32804159539012,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,13,0.4,69.68050481464317,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,14,0.35,65.03296803389621,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,15,0.3,60.38543125314926,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,16,0.25,55.7378944724023,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,17,0.2,51.09035769165535,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,18,0.15,46.442820910908395,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,19,0.1,41.79528413016144,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,20,0.05,37.14774734941449,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,8,0.7,15.50035349079662,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,11,0.5,78.97557837613707,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,12,0.45,74.32804159539012,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,13,0.4,69.68050481464317,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,14,0.35,65.03296803389621,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,15,0.3,60.38543125314926,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,16,0.25,55.7378944724023,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,17,0.2,51.09035769165535,3,2,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,18,0.15,46.442820910908395,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,19,0.1,41.79528413016144,3,2,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,20,0.05,37.14774734941449,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,9,0.8,17.119104166677133,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,1,1.0,125.45094618360662,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,2,0.95,120.80340940285964,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,3,0.9,116.1558726221127,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,4,0.85,111.50833584136575,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,5,0.8,106.8607990606188,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,6,0.75,102.21326227987186,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,7,0.7,97.56572549912488,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,8,0.65,92.91818871837793,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,9,0.6,88.27065193763099,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,10,0.55,83.62311515688404,3,3,true,true
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,11,0.5,78.97557837613707,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,12,0.45,74.32804159539012,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,13,0.4,69.68050481464317,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,14,0.35,65.03296803389621,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,15,0.3,60.38543125314926,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,16,0.25,55.7378944724023,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,17,0.2,51.09035769165535,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,18,0.15,46.442820910908395,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,19,0.1,41.79528413016144,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,20,0.05,37.14774734941449,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,10,0.9,18.737854842557642,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,1,1.0,125.45094618360662,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,2,0.95,120.80340940285964,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,3,0.9,116.1558726221127,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,4,0.85,111.50833584136575,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,5,0.8,106.8607990606188,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,6,0.75,102.21326227987186,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,7,0.7,97.56572549912488,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,8,0.65,92.91818871837793,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,9,0.6,88.27065193763099,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,10,0.55,83.62311515688404,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,11,0.5,78.97557837613707,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,12,0.45,74.32804159539012,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,13,0.4,69.68050481464317,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,14,0.35,65.03296803389621,5,0,false,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,15,0.3,60.38543125314926,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,16,0.25,55.7378944724023,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,17,0.2,51.09035769165535,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,18,0.15,46.442820910908395,3,3,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,19,0.1,41.79528413016144,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,20,0.05,37.14774734941449,3,1,true,false
+TAC + total emissions,TAC_primary,ISI,11,1.0,20.35660551843815,TotEmiss,21,0.0,32.50021056866753,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,1,1.0,20.35660551843815,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,2,0.95,19.84418349515026,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,3,0.9,19.33176147186238,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,4,0.85,18.81933944857449,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,5,0.8,18.306917425286606,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,6,0.75,17.794495401998716,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,7,0.7,17.28207337871083,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,8,0.65,16.769651355422944,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,9,0.6,16.257229332135058,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,10,0.55,15.744807308847172,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,11,0.5,15.232385285559285,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,12,0.45,14.7199632622714,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,13,0.4,14.207541238983511,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,14,0.35,13.695119215695623,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,15,0.3,13.182697192407737,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,16,0.25,12.67027516911985,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,17,0.2,12.157853145831965,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,18,0.15,11.645431122544078,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,19,0.1,11.133009099256192,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,20,0.05,10.620587075968304,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,1,0.0,32.50021056866753,ISI,21,0.0,10.108165052680418,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,1,1.0,20.35660551843815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,2,0.95,19.803534626493587,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,3,0.9,19.250463734549026,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,4,0.85,18.69739284260446,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,5,0.8,18.1443219506599,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,6,0.75,17.591251058715336,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,7,0.7,17.038180166770772,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,8,0.65,16.48510927482621,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,9,0.6,15.932038382881647,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,10,0.55,15.378967490937086,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,11,0.5,14.825896598992522,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,12,0.45,14.272825707047959,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,13,0.4,13.719754815103396,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,14,0.35,13.166683923158832,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,15,0.3,12.61361303121427,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,16,0.25,12.060542139269707,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,17,0.2,11.507471247325144,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,18,0.15,10.954400355380582,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,19,0.1,10.401329463436017,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,20,0.05,9.848258571491455,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,2,0.1,41.79528413016144,ISI,21,0.0,9.295187679546892,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,1,1.0,20.35660551843815,5,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,2,0.95,19.76306553938771,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,3,0.9,19.16952556033727,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,4,0.85,18.57598558128683,5,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,5,0.8,17.98244560223639,3,2,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,6,0.75,17.38890562318595,3,2,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,7,0.7,16.795365644135508,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,8,0.65,16.201825665085064,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,9,0.6,15.608285686034623,3,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,10,0.55,15.014745706984183,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,11,0.5,14.421205727933742,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,12,0.45,13.827665748883302,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,13,0.4,13.234125769832861,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,14,0.35,12.64058579078242,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,15,0.3,12.047045811731978,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,16,0.25,11.453505832681538,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,17,0.2,10.859965853631097,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,18,0.15,10.266425874580657,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,19,0.1,9.672885895530214,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,20,0.05,9.079345916479774,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,3,0.2,51.09035769165535,ISI,21,0.0,8.485805937429333,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,1,1.0,20.35660551843815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,2,0.95,19.722596452755816,5,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,3,0.9,19.08858738707348,5,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,4,0.85,18.45457832139115,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,5,0.8,17.820569255708815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,6,0.75,17.18656019002648,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,7,0.7,16.552551124344145,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,8,0.65,15.918542058661814,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,9,0.6,15.284532992979479,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,10,0.55,14.650523927297145,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,11,0.5,14.016514861614812,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,12,0.45,13.382505795932477,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,13,0.4,12.748496730250144,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,14,0.35,12.11448766456781,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,15,0.3,11.480478598885476,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,16,0.25,10.846469533203141,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,17,0.2,10.212460467520808,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,18,0.15,9.578451401838475,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,19,0.1,8.94444233615614,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,20,0.05,8.310433270473807,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,4,0.3,60.38543125314926,ISI,21,0.0,7.676424204791473,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,1,1.0,20.35660551843815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,2,0.95,19.695617061682142,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,3,0.9,19.034628604926134,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,4,0.85,18.373640148170125,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,5,0.8,17.712651691414123,5,1,true,true
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,6,0.75,17.051663234658115,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,7,0.7,16.390674777902106,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,8,0.65,15.729686321146097,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,9,0.6,15.068697864390089,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,10,0.55,14.407709407634083,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,11,0.5,13.746720950878075,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,12,0.45,13.085732494122066,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,13,0.4,12.42474403736606,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,14,0.35,11.76375558061005,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,15,0.3,11.102767123854044,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,16,0.25,10.441778667098035,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,17,0.2,9.780790210342028,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,18,0.15,9.11980175358602,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,19,0.1,8.458813296830012,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,20,0.05,7.7978248400740044,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,5,0.4,69.68050481464317,ISI,21,0.0,7.136836383317997,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,1,1.0,20.35660551843815,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,2,0.95,19.667074274223715,5,0,false,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,3,0.9,18.977543030009286,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,4,0.85,18.28801178579485,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,5,0.8,17.598480541580415,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,6,0.75,16.908949297365982,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,7,0.7,16.21941805315155,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,8,0.65,15.529886808937116,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,9,0.6,14.840355564722682,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,10,0.55,14.15082432050825,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,11,0.5,13.461293076293813,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,12,0.45,12.771761832079381,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,13,0.4,12.082230587864947,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,14,0.35,11.392699343650513,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,15,0.3,10.70316809943608,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,16,0.25,10.013636855221646,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,17,0.2,9.324105611007212,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,18,0.15,8.634574366792778,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,19,0.1,7.945043122578345,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,20,0.05,7.255511878363912,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,6,0.5,78.97557837613707,ISI,21,0.0,6.5659806341494775,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,1,1.0,20.35660551843815,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,2,0.95,19.64165827926005,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,3,0.9,18.926711040081948,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,4,0.85,18.211763800903842,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,5,0.8,17.49681656172574,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,6,0.75,16.781869322547635,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,7,0.7,16.066922083369533,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,8,0.65,15.351974844191432,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,9,0.6,14.637027605013326,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,10,0.55,13.922080365835225,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,11,0.5,13.20713312665712,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,12,0.45,12.492185887479017,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,13,0.4,11.777238648300914,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,14,0.35,11.06229140912281,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,15,0.3,10.347344169944707,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,16,0.25,9.632396930766603,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,17,0.2,8.917449691588502,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,18,0.15,8.202502452410398,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,19,0.1,7.4875552132322944,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,20,0.05,6.772607974054192,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,7,0.6,88.27065193763099,ISI,21,0.0,6.057660734876088,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,1,1.0,20.35660551843815,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,2,0.95,19.62816858298262,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,3,0.9,18.89973164752709,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,4,0.85,18.17129471207156,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,5,0.8,17.44285777661603,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,6,0.75,16.7144208411605,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,7,0.7,15.98598390570497,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,8,0.65,15.257546970249443,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,9,0.6,14.52911003479391,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,10,0.55,13.800673099338383,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,11,0.5,13.072236163882852,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,12,0.45,12.343799228427322,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,13,0.4,11.615362292971792,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,14,0.35,10.886925357516262,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,15,0.3,10.158488422060731,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,16,0.25,9.430051486605201,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,17,0.2,8.701614551149673,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,18,0.15,7.9731776156941425,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,19,0.1,7.244740680238612,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,20,0.05,6.516303744783083,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,8,0.7,97.56572549912488,ISI,21,0.0,5.787866809327553,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,1,1.0,20.35660551843815,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,2,0.95,19.601189191707697,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,3,0.9,18.84577286497725,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,4,0.85,18.090356538246795,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,5,0.8,17.334940211516344,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,6,0.75,16.579523884785893,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,7,0.7,15.824107558055438,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,8,0.65,15.068691231324987,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,9,0.6,14.313274904594534,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,10,0.55,13.557858577864083,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,11,0.5,12.80244225113363,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,12,0.45,12.04702592440318,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,13,0.4,11.291609597672727,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,14,0.35,10.536193270942274,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,15,0.3,9.780776944211823,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,16,0.25,9.02536061748137,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,17,0.2,8.269944290750917,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,18,0.15,7.514527964020466,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,19,0.1,6.7591116372900135,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,20,0.05,6.003695310559562,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,9,0.8,106.8607990606188,ISI,21,0.0,5.24827898382911,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,1,1.0,20.35660551843815,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,2,0.95,19.574209800410355,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,3,0.9,18.791814082382558,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,4,0.85,18.00941836435476,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,5,0.8,17.227022646326965,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,6,0.75,16.44462692829917,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,7,0.7,15.662231210271372,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,8,0.65,14.879835492243577,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,9,0.6,14.097439774215779,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,10,0.55,13.315044056187984,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,11,0.5,12.532648338160186,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,12,0.45,11.75025262013239,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,13,0.4,10.967856902104595,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,14,0.35,10.185461184076797,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,15,0.3,9.403065466049,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,16,0.25,8.620669748021205,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,17,0.2,7.838274029993409,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,18,0.15,7.055878311965612,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,19,0.1,6.273482593937816,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,20,0.05,5.491086875910019,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,10,0.9,116.1558726221127,ISI,21,0.0,4.708691157882223,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,1,1.0,20.35660551843815,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,2,0.95,19.5472301804979,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,3,0.9,18.737854842557642,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,4,0.85,17.928479504617385,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,5,0.8,17.119104166677133,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,6,0.75,16.309728828736876,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,7,0.7,15.50035349079662,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,8,0.65,14.690978152856365,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,9,0.6,13.88160281491611,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,10,0.55,13.072227476975856,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,11,0.5,12.2628521390356,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,12,0.45,11.453476801095345,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,13,0.4,10.644101463155089,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,14,0.35,9.834726125214832,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,15,0.3,9.02535078727458,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,16,0.25,8.215975449334323,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,17,0.2,7.406600111394068,3,3,true,false
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,18,0.15,6.597224773453812,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,19,0.1,5.787849435513557,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,20,0.05,4.978474097573302,3,3,true,true
+TAC + ISI,TAC_primary,TotEmiss,11,1.0,125.45094618360662,ISI,21,0.0,4.169098759633046,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,2,0.95,20.35660096010854,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,3,0.9,20.356596401778933,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,4,0.85,20.356591843449323,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,5,0.8,20.356587285119712,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,6,0.75,20.356582726790105,5,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,7,0.7,20.356578168460494,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,8,0.65,20.356573610130884,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,9,0.6,20.356569051801277,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,10,0.55,20.356564493471666,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,11,0.5,20.35655993514206,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,12,0.45,20.356555376812448,5,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,13,0.4,20.356550818482837,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,14,0.35,20.35654626015323,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,15,0.3,20.35654170182362,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,16,0.25,20.35653714349401,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,17,0.2,20.356532585164402,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,18,0.15,20.35652802683479,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,19,0.1,20.35652346850518,5,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,20,0.05,20.356518910175573,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,1,0.0,2.540987776255747e6,ISI,21,0.0,20.356514351845963,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,1,1.0,20.35660551843815,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,2,0.95,20.302653362758154,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,3,0.9,20.248701207078152,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,4,0.85,20.194749051398155,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,5,0.8,20.140796895718154,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,6,0.75,20.086844740038156,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,7,0.7,20.03289258435816,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,8,0.65,19.978940428678158,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,9,0.6,19.92498827299816,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,10,0.55,19.87103611731816,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,11,0.5,19.81708396163816,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,12,0.45,19.763131805958164,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,13,0.4,19.709179650278163,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,14,0.35,19.655227494598165,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,15,0.3,19.601275338918164,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,16,0.25,19.547323183238166,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,17,0.2,19.49337102755817,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,18,0.15,19.439418871878168,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,19,0.1,19.38546671619817,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,20,0.05,19.33151456051817,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,2,0.1,5.8017942258693045e6,ISI,21,0.0,19.27756240483817,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,1,1.0,20.35660551843815,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,2,0.95,20.12580797250467,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,3,0.9,19.89501042657119,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,4,0.85,19.66421288063771,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,5,0.8,19.433415334704232,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,6,0.75,19.202617788770752,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,7,0.7,18.97182024283727,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,8,0.65,18.74102269690379,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,9,0.6,18.51022515097031,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,10,0.55,18.27942760503683,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,11,0.5,18.048630059103353,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,12,0.45,17.817832513169872,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,13,0.4,17.58703496723639,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,14,0.35,17.35623742130291,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,15,0.3,17.12543987536943,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,16,0.25,16.89464232943595,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,17,0.2,16.66384478350247,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,18,0.15,16.433047237568992,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,19,0.1,16.20224969163551,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,20,0.05,15.971452145702031,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,3,0.2,9.062600675482862e6,ISI,21,0.0,15.74065459976855,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,2,0.95,19.84418349515026,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,3,0.9,19.33176147186238,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,4,0.85,18.81933944857449,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,5,0.8,18.306917425286606,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,6,0.75,17.794495401998716,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,7,0.7,17.28207337871083,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,8,0.65,16.769651355422944,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,9,0.6,16.257229332135058,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,10,0.55,15.744807308847172,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,11,0.5,15.232385285559285,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,12,0.45,14.7199632622714,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,13,0.4,14.207541238983511,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,14,0.35,13.695119215695623,3,1,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,15,0.3,13.182697192407737,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,16,0.25,12.67027516911985,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,17,0.2,12.157853145831965,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,18,0.15,11.645431122544078,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,19,0.1,11.133009099256192,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,20,0.05,10.620587075968304,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,4,0.3,1.232340712509642e7,ISI,21,0.0,10.108165052680418,3,2,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,2,0.95,19.8439441076234,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,3,0.9,19.331282696808657,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,4,0.85,18.818621285993906,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,5,0.8,18.305959875179155,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,6,0.75,17.79329846436441,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,7,0.7,17.28063705354966,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,8,0.65,16.76797564273491,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,9,0.6,16.255314231920163,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,10,0.55,15.742652821105414,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,11,0.5,15.229991410290665,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,12,0.45,14.717329999475918,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,13,0.4,14.204668588661168,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,14,0.35,13.69200717784642,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,15,0.3,13.179345767031672,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,16,0.25,12.666684356216923,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,17,0.2,12.154022945402174,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,18,0.15,11.641361534587425,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,19,0.1,11.128700123772678,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,20,0.05,10.616038712957929,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,5,0.4,1.5584213574709978e7,ISI,21,0.0,10.10337730214318,3,2,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,2,0.95,19.83051401699261,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,3,0.9,19.304422515547067,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,4,0.85,18.778331014101525,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,5,0.8,18.252239512655983,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,6,0.75,17.72614801121044,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,7,0.7,17.2000565097649,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,8,0.65,16.673965008319357,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,9,0.6,16.147873506873815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,10,0.55,15.621782005428276,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,11,0.5,15.095690503982734,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,12,0.45,14.569599002537192,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,13,0.4,14.04350750109165,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,14,0.35,13.517415999646108,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,15,0.3,12.991324498200566,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,16,0.25,12.465232996755024,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,17,0.2,11.939141495309482,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,18,0.15,11.41304999386394,3,2,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,19,0.1,10.8869584924184,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,20,0.05,10.360866990972857,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,6,0.5,1.8845020024323534e7,ISI,21,0.0,9.834775489527315,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,2,0.95,19.81702432192685,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,3,0.9,19.27744312541555,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,4,0.85,18.737861928904252,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,5,0.8,18.198280732392952,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,6,0.75,17.658699535881656,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,7,0.7,17.119118339370356,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,8,0.65,16.579537142859056,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,9,0.6,16.039955946347757,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,10,0.55,15.500374749836459,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,11,0.5,14.960793553325159,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,12,0.45,14.42121235681386,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,13,0.4,13.881631160302561,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,14,0.35,13.342049963791261,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,15,0.3,12.802468767279962,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,16,0.25,12.262887570768662,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,17,0.2,11.723306374257364,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,18,0.15,11.183725177746064,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,19,0.1,10.644143981234764,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,20,0.05,10.104562784723466,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,7,0.6,2.210582647393709e7,ISI,21,0.0,9.564981588212166,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,2,0.95,19.763065535926025,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,3,0.9,19.169525553413898,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,4,0.85,18.57598557090177,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,5,0.8,17.982445588389645,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,6,0.75,17.388905605877518,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,7,0.7,16.79536562336539,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,8,0.65,16.201825640853265,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,9,0.6,15.608285658341138,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,10,0.55,15.014745675829012,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,11,0.5,14.421205693316885,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,12,0.45,13.827665710804759,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,13,0.4,13.234125728292632,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,14,0.35,12.640585745780504,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,15,0.3,12.047045763268377,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,16,0.25,11.45350578075625,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,17,0.2,10.859965798244124,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,18,0.15,10.266425815731997,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,19,0.1,9.67288583321987,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,20,0.05,9.079345850707744,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,8,0.7,2.5366632923550647e7,ISI,21,0.0,8.485805868195618,3,2,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,2,0.95,19.65514797376148,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,3,0.9,18.95369042908481,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,4,0.85,18.252232884408137,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,5,0.8,17.55077533973147,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,6,0.75,16.849317795054798,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,7,0.7,16.147860250378127,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,8,0.65,15.446402705701457,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,9,0.6,14.744945161024786,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,10,0.55,14.043487616348116,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,11,0.5,13.342030071671445,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,12,0.45,12.640572526994774,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,13,0.4,11.939114982318104,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,14,0.35,11.237657437641433,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,15,0.3,10.536199892964763,3,2,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,16,0.25,9.834742348288092,3,2,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,17,0.2,9.13328480361142,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,18,0.15,8.431827258934751,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,19,0.1,7.73036971425808,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,20,0.05,7.028912169581409,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,9,0.8,2.8627439373164207e7,ISI,21,0.0,6.327454624904739,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,2,0.95,19.574209798905123,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,3,0.9,18.791814079372095,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,4,0.85,18.009418359839067,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,5,0.8,17.227022640306043,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,6,0.75,16.444626920773015,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,7,0.7,15.662231201239987,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,8,0.65,14.87983548170696,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,9,0.6,14.097439762173932,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,10,0.55,13.315044042640906,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,11,0.5,12.532648323107878,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,12,0.45,11.75025260357485,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,13,0.4,10.967856884041822,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,14,0.35,10.185461164508794,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,15,0.3,9.403065444975768,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,16,0.25,8.62066972544274,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,17,0.2,7.838274005909714,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,18,0.15,7.055878286376686,3,1,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,19,0.1,6.273482566843659,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,20,0.05,5.491086847310631,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,10,0.9,3.1888245822777763e7,ISI,21,0.0,4.708691127777604,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,1,1.0,20.35660551843815,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,2,0.95,19.5472301804979,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,3,0.9,18.737854842557642,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,4,0.85,17.928479504617385,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,5,0.8,17.119104166677133,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,6,0.75,16.309728828736876,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,7,0.7,15.50035349079662,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,8,0.65,14.690978152856365,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,9,0.6,13.88160281491611,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,10,0.55,13.072227476975856,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,11,0.5,12.2628521390356,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,12,0.45,11.453476801095345,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,13,0.4,10.644101463155089,5,0,false,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,14,0.35,9.834726125214832,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,15,0.3,9.02535078727458,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,16,0.25,8.215975449334323,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,17,0.2,7.406600111394068,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,18,0.15,6.597224773453812,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,19,0.1,5.787849435513557,3,3,true,false
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,20,0.05,4.978474097573302,3,3,true,true
+Total emissions + ISI,TotEmiss_primary,TAC,11,1.0,3.514905227239132e7,ISI,21,0.0,4.169098759633046,3,3,true,false

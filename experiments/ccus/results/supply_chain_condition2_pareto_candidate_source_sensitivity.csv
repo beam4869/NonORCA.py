@@ -1,0 +1,10 @@
+candidate_source,grouping,frontier_points,mean_information_loss_bins,mean_information_loss_neighbors,bins_rank,neighbors_rank
+full_TAC_only,TAC + total emissions,149,0.3912570841842905,0.47688712423865104,1,1
+full_TAC_only,TAC + ISI,149,0.4396477042048534,0.6159982986014079,2,2
+full_TAC_only,Total emissions + ISI,149,0.9737071825414585,0.9980086697861426,3,3
+all_full_grids,TAC + total emissions,165,0.4031874452252701,0.48835322805249604,1,1
+all_full_grids,TAC + ISI,165,0.4174154224149754,0.6107519690086008,2,2
+all_full_grids,Total emissions + ISI,165,0.8610423380474677,0.9238493220824076,3,3
+all_full_plus_reduced,TAC + total emissions,279,0.40929294568101016,0.40444209679565385,1,1
+all_full_plus_reduced,TAC + ISI,279,0.4358488643866575,0.5213916783180891,2,2
+all_full_plus_reduced,Total emissions + ISI,279,0.856983679550197,0.7098143200802421,3,3

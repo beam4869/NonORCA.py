@@ -1,0 +1,7 @@
+profile,grouping,mean_information_loss
+direct_use_expansion,TAC + ISI,0.7428999238181817
+direct_use_expansion,TAC + total emissions,0.345298328
+direct_use_expansion,Total emissions + ISI,0.28995733845454547
+supply_chain_condition2,TAC + ISI,0.30982764409090907
+supply_chain_condition2,TAC + total emissions,0.28681147081818187
+supply_chain_condition2,Total emissions + ISI,0.8609490227272727

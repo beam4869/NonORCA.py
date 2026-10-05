@@ -1,0 +1,3 @@
+run_label,replicate,rng_seed,step_size,points_per_seed,selected_points,constraint_handling,leiden_TAC,leiden_TotEmiss,leiden_ISI,average_TAC,average_TotEmiss,average_ISI
+pilot,1,17,0.03,3,12,equality_tangent,1,2,2,1,2,2
+pilot,1,17,0.03,3,12,inequalities_only,1,2,2,1,2,2

@@ -1,0 +1,66 @@
+scenario,mechanism,feasible,accepted_objectives,feasibility_termination,feasibility_max_inequality
+supply_chain_condition1,Frozen original direct-use-expansion supply chain.,true,3,LOCALLY_SOLVED,3.860052841826968e-9
+energy_mild,Moderately couples energy cost and power-related emissions.,true,3,LOCALLY_SOLVED,3.858382533103022e-9
+energy_high,Strongly couples energy cost and power-related emissions.,true,3,LOCALLY_SOLVED,3.8556146416728525e-9
+loss_mild,Makes the low-cost Urea route lower-loss while retaining saline storage.,true,3,LOCALLY_SOLVED,3.856036775000398e-9
+loss_strong,Strong economic-carbon alignment across Urea and competing sinks.,true,3,LOCALLY_SOLVED,3.852240368261103e-9
+safety_decoupled,Makes ISI prefer Greenhouse while penalizing the low-loss sinks.,true,3,LOCALLY_SOLVED,3.860052841826968e-9
+capacity_balanced,Rebalances sink/treatment capacities without changing objective coefficients.,true,3,LOCALLY_SOLVED,9.201029009056824e-9
+capacity_tight,Tightens all preferred sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.680867840125823e-9
+supply_shift,Reduces availability of the lower-concentration source streams.,true,3,LOCALLY_SOLVED,3.2474829688943944e-9
+energy_high_loss_mild,High energy coupling plus mild sink loss alignment.,true,3,LOCALLY_SOLVED,3.848612787176315e-9
+energy_high_loss_strong,High energy coupling plus strong sink loss alignment.,true,3,LOCALLY_SOLVED,3.838479653817694e-9
+loss_mild_safety,Mild loss alignment plus ISI-decoupled safety coefficients.,true,3,LOCALLY_SOLVED,3.856036775000398e-9
+loss_strong_safety,Strong loss alignment plus ISI-decoupled safety coefficients.,true,3,LOCALLY_SOLVED,3.852240368261103e-9
+energy_high_safety,High energy coupling plus ISI-decoupled safety coefficients.,true,3,LOCALLY_SOLVED,3.8556146416728525e-9
+energy_high_loss_mild_safety,"Energy, carbon-loss, and safety mechanisms combined.",true,3,LOCALLY_SOLVED,3.848612787176315e-9
+energy_high_loss_strong_safety,Strong energy-carbon alignment with safety decoupling.,true,3,LOCALLY_SOLVED,3.838479653817694e-9
+combined_balanced_capacity,Strong alignment with rebalanced sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.201029140997971e-9
+combined_tight_capacity,Strong alignment with tight sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.680868283568277e-9
+combined_supply_shift,Strong alignment under changed source availability.,true,3,LOCALLY_SOLVED,3.2757998552454825e-9
+combined_balanced_supply,Strong alignment with capacity and source-availability changes.,true,3,LOCALLY_SOLVED,0.0
+combined_tight_supply,Strong alignment under tight capacities and changed source availability.,true,3,LOCALLY_SOLVED,9.494166914943654e-9
+combined_capture_50,"Strong alignment, balanced capacities, and a 50% capture target.",true,3,LOCALLY_SOLVED,8.867224894935616e-9
+combined_capture_60,"Strong alignment, expanded capacities, and a 60% capture target.",true,3,LOCALLY_SOLVED,9.518636852947734e-9
+shared_operations_mild,Makes treatment and operating energy shared cost-emission drivers while retaining moderate capital and sink terms.,true,3,LOCALLY_SOLVED,3.857961609961929e-9
+shared_operations_moderate,Makes treatment and operating energy dominant shared drivers with small residual sink losses.,true,3,LOCALLY_SOLVED,3.860300212947601e-9
+shared_operations_strong,Mechanism-limit case in which TAC and emissions are almost entirely shared operating terms.,true,3,LOCALLY_SOLVED,3.861813840913033e-9
+shared_mild_safety,Mild shared-operations case with an independently low-ISI Greenhouse route.,true,3,LOCALLY_SOLVED,3.857961609961929e-9
+shared_moderate_safety,Moderate shared-operations case with safety decoupling.,true,3,LOCALLY_SOLVED,3.860300212947601e-9
+shared_strong_safety,Strong shared-operations case with safety decoupling.,true,3,LOCALLY_SOLVED,3.861813840913033e-9
+shared_moderate_safety_extreme,Moderate shared operations with a stronger independent ISI contrast.,true,3,LOCALLY_SOLVED,3.860300212947601e-9
+shared_strong_safety_extreme,Strong shared operations with a stronger independent ISI contrast.,true,3,LOCALLY_SOLVED,3.861813840913033e-9
+shared_moderate_capacity,Moderate shared operations under rebalanced sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.201028961303307e-9
+shared_moderate_tight_capacity,Moderate shared operations under tight sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.680867555215871e-9
+shared_moderate_supply,Moderate shared operations under changed source availability.,true,3,LOCALLY_SOLVED,3.225014097252148e-9
+shared_moderate_capacity_supply,Moderate shared operations with both capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+shared_strong_capacity_supply,Mechanism-limit shared operations with capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+operating_alignment_crf_01,Operating-alignment mechanism with a 0.01 capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_alignment_crf_001,Operating-alignment mechanism with a 0.001 capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_alignment_limit,Mechanism limit with zero annualized capital contribution.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_alignment_001_safety,Near-operating-limit case with an independent low-ISI route.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_alignment_limit_safety,Operating-limit case with an independent low-ISI route.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_alignment_001_capacity,Near-operating-limit case with rebalanced sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.201028944392135e-9
+operating_alignment_limit_capacity,Operating-limit case with rebalanced sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.201028944392135e-9
+operating_alignment_001_capacity_supply,Near-operating-limit case with capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+operating_alignment_limit_capacity_supply,Operating-limit case with capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+operating_scale_10,Tenfold shared operating and treatment costs with the original capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_100,Hundredfold shared operating and treatment costs with the original capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_1000,Thousandfold shared operating and treatment costs with the original capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_10000,Mechanism-limit high operating costs with the original capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_10_crf01,Tenfold shared operating costs with a 0.01 capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_100_crf01,Hundredfold shared operating costs with a 0.01 capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_1000_crf01,Thousandfold shared operating costs with a 0.01 capital recovery factor.,true,3,LOCALLY_SOLVED,3.862434146351451e-9
+operating_scale_100_safety_capacity,Hundredfold shared operating costs with safety and capacity changes.,true,3,LOCALLY_SOLVED,9.201028944392135e-9
+operating_scale_1000_safety_capacity,Thousandfold shared operating costs with safety and capacity changes.,true,3,LOCALLY_SOLVED,9.201028944392135e-9
+operating_scale_100_crf01_capacity_supply,"Hundredfold shared operating costs, lower capital recovery, capacity changes, and source changes.",true,3,LOCALLY_SOLVED,0.0
+carbon_cost_alignment_1,Aligns sink processing cost with carbon loss at the base operating-cost scale.,true,3,LOCALLY_SOLVED,3.839895160257872e-9
+carbon_cost_alignment_10,Carbon-loss-aligned sink cost with tenfold shared operating terms.,true,3,LOCALLY_SOLVED,3.839895160257872e-9
+carbon_cost_alignment_100,Carbon-loss-aligned sink cost with hundredfold shared operating terms.,true,3,LOCALLY_SOLVED,3.839895160257872e-9
+carbon_cost_alignment_1000,Carbon-loss-aligned sink cost with thousandfold shared operating terms.,true,3,LOCALLY_SOLVED,3.839895160257872e-9
+carbon_cost_alignment_1_capacity,Base-scale carbon-loss-aligned costs with rebalanced capacities.,true,3,LOCALLY_SOLVED,9.20102913466768e-9
+carbon_cost_alignment_10_capacity,Carbon-loss-aligned costs with rebalanced sink/treatment capacities.,true,3,LOCALLY_SOLVED,9.20102913466768e-9
+carbon_cost_alignment_100_capacity,Hundredfold carbon-loss-aligned costs with rebalanced capacities.,true,3,LOCALLY_SOLVED,9.20102913466768e-9
+carbon_cost_alignment_10_capacity_supply,Carbon-loss-aligned costs under capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+carbon_cost_alignment_1_capacity_supply,Base-scale carbon-loss-aligned costs under capacity and source changes.,true,3,LOCALLY_SOLVED,0.0
+carbon_cost_alignment_100_capacity_supply,Hundredfold carbon-loss-aligned costs under capacity and source changes.,true,3,LOCALLY_SOLVED,0.0

@@ -1,0 +1,76 @@
+M,block_size,method,objective_i,objective_j,signed_strength,adjacency,normalized_correlation_strength,sampling_measure
+5,10.0,Raw-Cosine,1,1,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,Raw-Cosine,1,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,1,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,1,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,1,5,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,2,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,2,2,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,Raw-Cosine,2,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,2,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,2,5,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,3,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,3,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,3,3,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,Raw-Cosine,3,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,3,5,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,4,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,4,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,4,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,4,4,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,Raw-Cosine,4,5,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,5,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,5,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,5,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,5,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,Raw-Cosine,5,5,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,ORCA-current,1,1,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,ORCA-current,1,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,1,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,1,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,1,5,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,2,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,2,2,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,ORCA-current,2,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,2,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,2,5,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,3,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,3,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,3,3,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,ORCA-current,3,4,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,3,5,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,4,1,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,4,2,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,4,3,0.0,0.5,0.5,pointwise derivative geometry
+5,10.0,ORCA-current,4,4,1.0,1.0,1.0,pointwise derivative geometry
+5,10.0,ORCA-current,4,5,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,5,1,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,5,2,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,5,3,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,5,4,-0.3773584905660379,0.311320754716981,0.311320754716981,pointwise derivative geometry
+5,10.0,ORCA-current,5,5,1.0,1.0,1.0,pointwise derivative geometry
+5,,PF-Pearson,1,1,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,1,2,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,1,3,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,1,4,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,1,5,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,2,1,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,2,2,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,2,3,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,2,4,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,2,5,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,3,1,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,3,2,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,3,3,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,3,4,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,3,5,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,4,1,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,4,2,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,4,3,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,4,4,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,4,5,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,5,1,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,5,2,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,5,3,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,5,4,-0.9182769851312292,0.04086150743438538,0.04086150743438538,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"
+5,,PF-Pearson,5,5,1.0,1.0,1.0,"complete exact front; theta uniform on [0, pi/2]; analytic population correlation"

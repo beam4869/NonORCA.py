@@ -1,0 +1,11 @@
+run_label,replicate,rng_seed,step_size,points_per_seed,selected_points,constraint_handling,leiden_TAC,leiden_TotEmiss,leiden_ISI,average_TAC,average_TotEmiss,average_ISI
+condition2_step_low,1,20260901,0.01,20,63,equality_tangent,1,1,2,1,1,2
+condition2_step_low,1,20260901,0.01,20,63,inequalities_only,1,1,2,1,1,2
+condition2_step_low,2,20260902,0.01,20,63,equality_tangent,1,1,2,1,1,2
+condition2_step_low,2,20260902,0.01,20,63,inequalities_only,1,1,2,1,1,2
+condition2_step_low,3,20260903,0.01,20,63,equality_tangent,1,1,2,1,1,2
+condition2_step_low,3,20260903,0.01,20,63,inequalities_only,1,1,2,1,1,2
+condition2_step_low,4,20260904,0.01,20,63,equality_tangent,1,1,2,1,1,2
+condition2_step_low,4,20260904,0.01,20,63,inequalities_only,1,1,2,1,1,2
+condition2_step_low,5,20260905,0.01,20,63,equality_tangent,1,1,2,1,1,2
+condition2_step_low,5,20260905,0.01,20,63,inequalities_only,1,1,2,1,1,2

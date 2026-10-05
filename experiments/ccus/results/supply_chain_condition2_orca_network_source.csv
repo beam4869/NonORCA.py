@@ -1,0 +1,4 @@
+pair,orca_adjacency,orca_signed_strength,selected_group_edge
+TAC__TotEmiss,0.751251547195863,0.5025030943917258,True
+TAC__ISI,0.6677931928945657,0.3355863857891313,False
+TotEmiss__ISI,0.5943668715334857,0.1887337430669713,False

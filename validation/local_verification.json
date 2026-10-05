@@ -1,0 +1,140 @@
+{
+  "checks": [
+    {
+      "name": "Table 2: three methods, paired seeds 0..4",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary optimized_objectives",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary ref_dirs",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary n_gen_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary evals_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary approx_hv_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary approx_hv_std",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary empirical_igd_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary empirical_igd_std",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary optimizer_seconds_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary orca_grouping_seconds_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary total_seconds_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary total_seconds_std",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary num_solutions_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary max_constraint_violation",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary ari_vs_expected_mean",
+      "passed": true
+    },
+    {
+      "name": "Table 2: raw-to-summary num_seeds",
+      "passed": true
+    },
+    {
+      "name": "Table 1: 30 archived ORCA runs all recover expected groups",
+      "passed": true
+    },
+    {
+      "name": "Table 1: six cases each with seeds 0..4",
+      "passed": true
+    },
+    {
+      "name": "Ellipse: rerun reproduces all 68 points",
+      "passed": true,
+      "max_error": 2.952532551780962e-09
+    },
+    {
+      "name": "Ellipse: rerun reproduces stored correlation matrix",
+      "passed": true,
+      "max_error": 9.067394057815648e-11
+    },
+    {
+      "name": "Ellipse: recovered groups",
+      "passed": true
+    },
+    {
+      "name": "direct_use_expansion: archived point and replicate counts",
+      "passed": true
+    },
+    {
+      "name": "direct_use_expansion: all archived ORCA pair values reproduced",
+      "passed": true,
+      "max_absolute_error": 2.220446049250313e-16,
+      "replicates": 20,
+      "constraint_modes": 2
+    },
+    {
+      "name": "direct_use_expansion: both grouping partitions reproduced",
+      "passed": true
+    },
+    {
+      "name": "direct_use_expansion: conditional loss reproduced from stored NLP points",
+      "passed": true,
+      "max_absolute_error": 5.551115123125783e-17
+    },
+    {
+      "name": "supply_chain_condition2: archived point and replicate counts",
+      "passed": true
+    },
+    {
+      "name": "supply_chain_condition2: all archived ORCA pair values reproduced",
+      "passed": true,
+      "max_absolute_error": 1.1102230246251565e-16,
+      "replicates": 10,
+      "constraint_modes": 2
+    },
+    {
+      "name": "supply_chain_condition2: both grouping partitions reproduced",
+      "passed": true
+    },
+    {
+      "name": "supply_chain_condition2: conditional loss reproduced from stored NLP points",
+      "passed": true,
+      "max_absolute_error": 5.551115123125783e-17
+    }
+  ],
+  "passed": true,
+  "warnings": [
+    "Table 2 caption says sample SD; archived driver and values use ddof=0.",
+    "Julia NLP sampling/Pareto/conditional solves were not rerun.",
+    "Figure 4 full DTLZ5(5,20) heatmap run grid has not been located."
+  ]
+}

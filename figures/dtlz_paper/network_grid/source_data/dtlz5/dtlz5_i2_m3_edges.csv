@@ -1,0 +1,4 @@
+source,target,affinity,same_recovered_group
+f1,f2,0.576923076923,1
+f1,f3,0.177419354839,0
+f2,f3,0.177419354839,0

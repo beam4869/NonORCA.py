@@ -1,0 +1,7 @@
+completed_at = 2026-08-10T11:39:07.773
+julia_version = 1.10.0
+profiles = 8
+accepted_objective_solutions = 24
+feasibility_tolerance = 1.0e-6
+active_sink_flow_tolerance = 1.0
+optimization_note = deterministic cross-start Ipopt; local NLP optima, not global certificates

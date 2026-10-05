@@ -1,0 +1,14 @@
+completed_at = 2026-08-10T13:35:46.862
+profile = direct_use_expansion
+method = Wang-Allman 2025 equations 3-4 mirrored in Julia with Ipopt projection
+run_label = points_low
+step_size = 0.03
+points_per_seed_additional = 20
+replicates = 5
+first_random_seed = 20251101
+selected_points = 315
+projection_attempts = 300
+projection_failures = 0
+duplicate_rejections = 0
+max_abs_equality = 5.052748343182935e-16
+max_inequality_violation = 7.78589339946976e-9

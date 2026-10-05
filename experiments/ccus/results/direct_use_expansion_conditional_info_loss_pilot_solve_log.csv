@@ -1,0 +1,31 @@
+grouping,retained,level_index,level_fraction,retained_target,endpoint,accepted,stage_one_attempts,stage_one_successes,stage_two_attempts,stage_two_successes,lexicographic_completed
+TAC + total emissions,ISI,1,0.0,4.169098759633046,min_TAC,true,4,4,4,3,true
+TAC + total emissions,ISI,1,0.0,4.169098759633046,min_TotEmiss,true,4,4,4,4,true
+TAC + total emissions,ISI,2,0.25,8.215975449334323,min_TAC,true,4,4,4,0,false
+TAC + total emissions,ISI,2,0.25,8.215975449334323,min_TotEmiss,true,4,4,4,4,true
+TAC + total emissions,ISI,3,0.5,12.2628521390356,min_TAC,true,4,4,4,1,true
+TAC + total emissions,ISI,3,0.5,12.2628521390356,min_TotEmiss,true,4,4,4,4,true
+TAC + total emissions,ISI,4,0.75,16.309728828736876,min_TAC,true,4,4,4,2,true
+TAC + total emissions,ISI,4,0.75,16.309728828736876,min_TotEmiss,true,4,4,4,4,true
+TAC + total emissions,ISI,5,1.0,20.35660551843815,min_TAC,true,4,4,4,1,true
+TAC + total emissions,ISI,5,1.0,20.35660551843815,min_TotEmiss,true,4,4,4,4,true
+TAC + ISI,TotEmiss,1,0.0,32.50021056866753,min_TAC,true,4,4,4,4,true
+TAC + ISI,TotEmiss,1,0.0,32.50021056866753,min_ISI,true,4,4,4,4,true
+TAC + ISI,TotEmiss,2,0.25,55.7378944724023,min_TAC,true,9,1,1,0,false
+TAC + ISI,TotEmiss,2,0.25,55.7378944724023,min_ISI,true,4,4,4,4,true
+TAC + ISI,TotEmiss,3,0.5,78.97557837613707,min_TAC,true,9,1,1,0,false
+TAC + ISI,TotEmiss,3,0.5,78.97557837613707,min_ISI,true,4,4,4,4,true
+TAC + ISI,TotEmiss,4,0.75,102.21326227987186,min_TAC,true,9,1,1,0,false
+TAC + ISI,TotEmiss,4,0.75,102.21326227987186,min_ISI,true,4,4,4,4,true
+TAC + ISI,TotEmiss,5,1.0,125.45094618360662,min_TAC,true,9,1,1,1,true
+TAC + ISI,TotEmiss,5,1.0,125.45094618360662,min_ISI,true,4,4,4,4,true
+Total emissions + ISI,TAC,1,0.0,2.540987776255747e6,min_TotEmiss,false,8,0,0,0,false
+Total emissions + ISI,TAC,1,0.0,2.540987776255747e6,min_ISI,true,4,3,3,2,true
+Total emissions + ISI,TAC,2,0.25,1.069300390028964e7,min_TotEmiss,true,4,3,3,0,false
+Total emissions + ISI,TAC,2,0.25,1.069300390028964e7,min_ISI,true,4,3,3,0,false
+Total emissions + ISI,TAC,3,0.5,1.8845020024323534e7,min_TotEmiss,true,4,4,4,4,true
+Total emissions + ISI,TAC,3,0.5,1.8845020024323534e7,min_ISI,true,4,4,4,4,true
+Total emissions + ISI,TAC,4,0.75,2.6997036148357425e7,min_TotEmiss,true,4,4,4,4,true
+Total emissions + ISI,TAC,4,0.75,2.6997036148357425e7,min_ISI,true,4,4,4,3,true
+Total emissions + ISI,TAC,5,1.0,3.514905227239132e7,min_TotEmiss,true,4,4,4,4,true
+Total emissions + ISI,TAC,5,1.0,3.514905227239132e7,min_ISI,true,4,4,4,4,true

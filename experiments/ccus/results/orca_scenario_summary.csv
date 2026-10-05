@@ -1,0 +1,13 @@
+scenario,status,n_points,mean_active_inequalities,total_local_interactions,group_TAC_k2,group_TotEmiss_k2,group_ISI_k2,termination,max_inequality_violation
+baseline,ok,4,74.25,433.0,1.0,2.0,2.0,,
+capture_low,ok,4,76.5,442.0,1.0,2.0,2.0,,
+capture_high,ok,4,69.5,414.0,1.0,2.0,2.0,,
+capture_near_limit,ok,4,71.25,421.0,1.0,2.0,2.0,,
+capture_infeasible,skipped_no_accepted_points,0,,,,,,LOCALLY_INFEASIBLE,0.0279762422417474
+efficiency_low,ok,4,74.0,432.0,1.0,2.0,2.0,,
+efficiency_high,ok,4,74.5,434.0,1.0,2.0,2.0,,
+grid_low,ok,4,74.5,434.0,1.0,2.0,2.0,,
+grid_high,ok,4,74.0,432.0,1.0,2.0,2.0,,
+power_price_high,ok,4,74.25,433.0,1.0,2.0,2.0,,
+capacity_low,ok,4,72.5,426.0,1.0,2.0,2.0,,
+sink_loss_high,ok,4,73.5,430.0,1.0,2.0,2.0,,

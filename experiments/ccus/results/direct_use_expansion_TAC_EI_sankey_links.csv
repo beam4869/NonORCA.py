@@ -1,0 +1,14 @@
+key_id,key_role,source,sink,flow_type,flow_kt_per_year
+A,Minimum TAC,Ammonia,Urea,direct,356.9999575598003
+A,Minimum TAC,Steel,Urea,treated,229.01589020911305
+B,10% saline allocation,Ammonia,Saline storage,direct,55.872413422661054
+B,10% saline allocation,Ammonia,Urea,direct,301.1275310024272
+B,10% saline allocation,Steel,Urea,treated,223.19596259189763
+C,Sink-switch point,Ammonia,Saline storage,direct,279.4087163371482
+C,Sink-switch point,Ammonia,Urea,direct,77.59122150734126
+C,Sink-switch point,Steel,Urea,treated,199.9115336279202
+D,90% saline allocation,Ammonia,Saline storage,direct,356.99956256164137
+D,90% saline allocation,Steel,Saline storage,treated,118.0403850601613
+D,90% saline allocation,Steel,Urea,treated,61.51032441963637
+E,Minimum raw emissions + ISI,Ammonia,Saline storage,direct,356.9999979369293
+E,Minimum raw emissions + ISI,Steel,Saline storage,treated,173.75526791398755

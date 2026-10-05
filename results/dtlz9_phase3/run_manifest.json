@@ -1,0 +1,42 @@
+{
+  "experiment": "DTLZ9 ORCA Phase 1-3",
+  "verification_status": "VERIFIED_BY_EXECUTION",
+  "p": 0.1,
+  "phase2_M": [
+    3,
+    5,
+    10
+  ],
+  "phase3_M": [
+    3,
+    5,
+    10,
+    20
+  ],
+  "block_sizes": [
+    1,
+    10
+  ],
+  "phase2_exact_pf_points": 25,
+  "stochastic_seeds": 30,
+  "stochastic_points_per_case": 12,
+  "partial_active_q": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "heterogeneous_contamination_q": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "gradient_noise_levels": [
+    0.01,
+    0.05
+  ],
+  "active_tolerance": 1e-10,
+  "box_bounds_exposed_to_orca": false,
+  "elapsed_seconds": 97.70701437500065
+}

@@ -1,0 +1,5 @@
+completed_at = 2026-08-09T19:19:33.337
+julia_version = 1.10.0
+number_of_scenarios = 12
+number_of_selected_points = 44
+active_inequality_tolerance = 1e-6

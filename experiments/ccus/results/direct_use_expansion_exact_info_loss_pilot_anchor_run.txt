@@ -1,0 +1,16 @@
+completed_at = 2026-08-10T14:35:17.348
+profile = direct_use_expansion
+method = exact retained-objective active slices of augmented epsilon-constraint Pareto solves
+retained_levels = 5
+epsilon_levels = 7
+orientations_per_grouping = 1; epsilon-constraint is nonconvex-front capable
+active_tolerance_normalized = 1.0e-6
+global_optimality = not claimed; deterministic Ipopt multi-start local NLP solves
+objective_lower_initial = [2.540987776255747e6, 32.50021056866753, 4.169098759633046]
+objective_upper_initial = [3.514905227239132e7, 125.4509461836066, 20.35660551843815]
+target_solves = 120
+accepted_solves = 87
+active_slice_points = 52
+max_abs_equality = 4.776757887462858e-16
+max_inequality_violation = 9.997835068932648e-9
+max_epsilon_violation = 1.3368935794870522e-8

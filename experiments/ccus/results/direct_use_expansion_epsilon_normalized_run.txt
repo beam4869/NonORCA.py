@@ -1,0 +1,16 @@
+completed_at = 2026-08-14T14:43:04.619
+method = augmented epsilon-constraint
+primary_objective = J + rho * normalized TAC
+constraint = TAC <= epsilon_TAC
+J = 0.50 * normalized TotEmiss + 0.50 * normalized ISI
+rho = 0.0001
+global_optimality = not claimed; deterministic Ipopt multi-start local NLP solves
+grid_size = 121
+candidate_starts_per_epsilon = 6
+accepted_epsilon_solutions = 121
+TAC_lower = 2.540987712061752e6
+TAC_upper = 1.1934630658853052e7
+J_lower = 0.18344344030560558
+J_upper = 0.8034857843049681
+objective_normalization_lower = [2.5409891836715625e6, 32.50039885116243, 4.16910319940448]
+objective_normalization_upper = [3.3246935395562347e7, 124.46120778773843, 20.356737912718565]

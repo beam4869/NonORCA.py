@@ -1,0 +1,4 @@
+dataset,seed,method,optimized_objectives,ref_dirs,n_gen,evals,num_solutions,orca_grouping_seconds,optimizer_seconds,total_seconds,approx_hv,empirical_igd,max_constraint_violation,mean_constraint_violation,expected_groups,groups,ari_vs_expected
+"DTLZ5(5,16), k_tail=10",0,NSGAIII_full,16,136,100,13600,34,0.0,8.857201071999953,8.857201071999953,2.7468748512443475,0.36573676559177054,0.0,0.0,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,,
+"DTLZ5(5,16), k_tail=10",0,ORCA_NSGAIII_reduced_natural_budget,5,35,100,3500,35,1.4989539130001504,2.2811131830003433,3.7800670960004936,3.8615233982748824,0.18903354247790713,0.0,0.0,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,1.0
+"DTLZ5(5,16), k_tail=10",0,ORCA_NSGAIII_reduced_equal_eval,5,35,389,13615,35,1.4989539130001504,8.869075361000796,10.368029274000946,4.076200536197492,0.19068623492858813,0.0,0.0,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5,1.0

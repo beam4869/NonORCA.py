@@ -1,0 +1,9 @@
+scenario,status,n_points,mean_active_inequalities,total_local_interactions,group_TAC_k2,group_TotEmiss_k2,group_ISI_k2
+baseline_forced,ok,3,73.33333333333333,322,1,2,2
+baseline_unforced,ok,3,80.66666666666667,344,1,2,2
+three_way_competition,ok,3,80.66666666666667,344,1,2,2
+direct_use_expansion,ok,3,80.33333333333333,343,1,2,2
+capacity_limited_hubs,ok,3,74.33333333333333,325,1,2,2
+expanded_greenhouse,ok,3,81.0,345,1,2,2
+low_carbon_energy,ok,3,77.0,333,1,2,2
+high_capture_limited,ok,3,71.66666666666667,317,1,2,2

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-05",
+  "M": 5,
+  "n": 50,
+  "seeds": 10,
+  "endpoint_decision_distance": 7.07106781186548e-10,
+  "positive_endpoint_coordinate": 1.0000000000000006e-10,
+  "zero_replacement_coordinate": 1e-30,
+  "zero_replacement_objective": 0.009999999999999995,
+  "note": "Diagnostic parameter changes only; original core and problem adapter unchanged. Small-step value is a case-specific diagnostic, not a general default.",
+  "script_sha256": "7677005be04c8a278885f70c0c6288eadef5eda7f87ad5b6b116d94b7b86a29b"
+}

@@ -1,0 +1,2 @@
+fine_grid,coarse_embedded_grid,fine_nondominated_points,coarse_nondominated_points,mean_normalized_distance_fine_to_coarse,p95_normalized_distance_fine_to_coarse,max_normalized_distance_fine_to_coarse
+31x31,16x16,340,93,0.028347153222448136,0.050505382396439785,0.3479067381968135

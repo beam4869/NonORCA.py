@@ -1,0 +1,7 @@
+baseline = baseline_forced
+active_inequality_tolerance = 1e-06
+alpha_weight = 0.9
+beta_weight = 100.0
+points_per_profile = TAC, TotEmiss, ISI optima
+grouping = average_linkage, K=2 (descriptive only)
+successful_profiles = 8

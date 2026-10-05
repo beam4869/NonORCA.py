@@ -1,0 +1,22 @@
+[
+  "ccus_orca_experiments/scripts/analyze_paper_orca_results.py",
+  "ccus_orca_experiments/scripts/run_orca.py",
+  "ccus_orca_experiments/scripts/run_paper_aligned_orca.py",
+  "dtlz9_experiments/orca_bridge.py",
+  "Nonlinear_demonstration_code/oval_objective_reduction_demo.py",
+  "Nonlinear_demonstration_code/plot_oval_objective_cones_matplotlib.py",
+  "figures/dtlz_paper/generate_dtlz_source_data.py",
+  "figures/dtlz_paper/make_dtlz_paper_figures.py",
+  "figures/dtlz_paper/network_grid/generate_dtlz5_network_source_data.py",
+  "figures/dtlz_paper/network_grid/generate_dtlz6_network_source_data.py",
+  "figures/dtlz_paper/network_grid/generate_networkx_figure_data.py",
+  "figures/dtlz_paper/network_grid/source_data/dtlz6/audit_dtlz6_network_cases.py",
+  "figures/illustrative_example/make_illustrative_objective_graph.py",
+  "figures/make_figure3_dtlz5_known_structure_rule.py",
+  "run_dtlz5_5_16_orca_nsga3.py",
+  "run_dtlz5_dtlz6_followup.py",
+  "run_dtlz6_m16_l2_aggregation.py",
+  "run_active_constraint_orca_vs_gradient.py",
+  "scripts/reproduce_available.py",
+  "archive/earlier_dtlz5_2_3/reproduce_dtlz5_i2_m3_analytic.py"
+]

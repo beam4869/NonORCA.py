@@ -1,0 +1,49 @@
+profile,evidence_class,rationale,sink_index,sink,minimum_CO2_fraction,capacity,effective_carbon_loss,safety_index,processing_cost,mean_distance,mean_compressor_power,capture_fraction,power_carbon_intensity,treatment_emission_factor,min_algae_flow
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,1,Algae,0.06,126.0,0.28,7.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,100.0
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,2,Greenhouse,0.94,508.0,0.5,7.0,-5.0,26.3825,2.2525,0.4,0.366,0.0338,100.0
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,3,Saline Storage,0.94,3168.0,0.0,8.0,9.0,2.2575000000000003,4.37,0.4,0.366,0.0338,100.0
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,4,Methanol,0.999,756.0,0.17,36.0,-20.0,2.2575000000000003,4.37,0.4,0.366,0.0338,100.0
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,5,Urea,0.999,543.0,0.11,25.0,-17.0,1.2550000000000001,4.37,0.4,0.366,0.0338,100.0
+baseline_forced,legacy baseline,Original parameters and forced Algae flow.,6,Acetic Acid,0.999,913.0,0.34,34.0,-26.0,1.2,4.37,0.4,0.366,0.0338,100.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,1,Algae,0.06,126.0,0.28,7.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,0.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,2,Greenhouse,0.94,508.0,0.5,7.0,-5.0,26.3825,2.2525,0.4,0.366,0.0338,0.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,3,Saline Storage,0.94,3168.0,0.0,8.0,9.0,2.2575000000000003,4.37,0.4,0.366,0.0338,0.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,4,Methanol,0.999,756.0,0.17,36.0,-20.0,2.2575000000000003,4.37,0.4,0.366,0.0338,0.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,5,Urea,0.999,543.0,0.11,25.0,-17.0,1.2550000000000001,4.37,0.4,0.366,0.0338,0.0
+baseline_unforced,diagnostic,Removes the artificial minimum Algae-flow constraint only.,6,Acetic Acid,0.999,913.0,0.34,34.0,-26.0,1.2,4.37,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",1,Algae,0.06,1000.0,0.24,4.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",2,Greenhouse,0.94,650.0,0.4,8.0,-5.0,26.3825,2.2525,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",3,Saline Storage,0.94,1500.0,0.0,18.0,9.0,6.7725,4.37,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",4,Methanol,0.999,756.0,0.18,32.0,-20.0,3.38625,4.37,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",5,Urea,0.999,900.0,0.12,25.0,-17.0,0.37649999999999995,0.7866,0.4,0.366,0.0338,0.0
+three_way_competition,exploratory,"Low-cost Urea transport, zero-loss saline storage, and expanded low-risk Algae capacity.",6,Acetic Acid,0.999,913.0,0.3,30.0,-26.0,1.7999999999999998,4.37,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,1,Algae,0.06,300.0,0.22,7.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,2,Greenhouse,0.2,1400.0,0.16,3.0,-5.0,9.233875,2.2525,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,3,Saline Storage,0.95,1400.0,0.0,18.0,9.0,6.7725,4.37,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,4,Methanol,0.999,756.0,0.18,32.0,-20.0,3.38625,4.37,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,5,Urea,0.999,900.0,0.12,25.0,-17.0,0.37649999999999995,0.7866,0.4,0.366,0.0338,0.0
+direct_use_expansion,exploratory,Adds a large lower-purity Greenhouse route to expose preprocessing choices.,6,Acetic Acid,0.999,913.0,0.3,30.0,-26.0,1.7999999999999998,4.37,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,1,Algae,0.06,220.0,0.24,5.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,2,Greenhouse,0.3,500.0,0.16,4.0,-5.0,9.233875,2.2525,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,3,Saline Storage,0.95,360.0,0.0,16.0,9.0,6.7725,4.37,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,4,Methanol,0.999,500.0,0.14,28.0,-20.0,2.709,3.4960000000000004,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,5,Urea,0.999,360.0,0.12,22.0,-17.0,0.37649999999999995,0.7866,0.4,0.366,0.0338,0.0
+capacity_limited_hubs,exploratory,Limits preferred hubs so optimal systems must combine multiple sinks.,6,Acetic Acid,0.999,500.0,0.22,26.0,-26.0,1.44,3.9330000000000003,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,1,Algae,0.06,250.0,0.24,7.0,-7.0,2.2725,0.53,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,2,Greenhouse,0.94,1800.0,0.12,3.0,-5.0,13.19125,2.2525,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,3,Saline Storage,0.94,1300.0,0.0,18.0,9.0,6.7725,4.37,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,4,Methanol,0.999,756.0,0.18,32.0,-20.0,3.38625,4.37,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,5,Urea,0.999,800.0,0.12,25.0,-17.0,0.37649999999999995,0.7866,0.4,0.366,0.0338,0.0
+expanded_greenhouse,exploratory,Expands a low-safety-index Greenhouse market while retaining its high purity requirement.,6,Acetic Acid,0.999,913.0,0.3,30.0,-26.0,1.7999999999999998,4.37,0.4,0.366,0.0338,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,1,Algae,0.06,1000.0,0.24,4.0,-7.0,2.2725,0.53,0.4,0.05,0.015,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,2,Greenhouse,0.94,650.0,0.4,8.0,-5.0,26.3825,2.2525,0.4,0.05,0.015,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,3,Saline Storage,0.94,1500.0,0.0,18.0,9.0,6.7725,4.37,0.4,0.05,0.015,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,4,Methanol,0.999,756.0,0.18,32.0,-20.0,3.38625,4.37,0.4,0.05,0.015,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,5,Urea,0.999,900.0,0.12,25.0,-17.0,0.37649999999999995,0.7866,0.4,0.05,0.015,0.0
+low_carbon_energy,exploratory,Tests whether cleaner power weakens the preprocessing and transport emission penalty.,6,Acetic Acid,0.999,913.0,0.3,30.0,-26.0,1.7999999999999998,4.37,0.4,0.05,0.015,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,1,Algae,0.06,300.0,0.24,5.0,-7.0,2.2725,0.53,0.6,0.366,0.0338,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,2,Greenhouse,0.3,700.0,0.16,4.0,-5.0,9.233875,2.2525,0.6,0.366,0.0338,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,3,Saline Storage,0.95,500.0,0.0,16.0,9.0,6.7725,4.37,0.6,0.366,0.0338,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,4,Methanol,0.999,650.0,0.14,28.0,-20.0,2.709,3.4960000000000004,0.6,0.366,0.0338,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,5,Urea,0.999,450.0,0.12,22.0,-17.0,0.37649999999999995,0.7866,0.6,0.366,0.0338,0.0
+high_capture_limited,exploratory,Raises capture to 60% under finite sink capacities to create network-wide allocation pressure.,6,Acetic Acid,0.999,650.0,0.22,26.0,-26.0,1.44,3.9330000000000003,0.6,0.366,0.0338,0.0

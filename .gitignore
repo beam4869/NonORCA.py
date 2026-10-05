@@ -1,0 +1,25 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+.matplotlib-cache/
+*.egg-info/
+/outputs/
+*.tiff
+*.pkl
+*.pickle
+*.zip
+# Figures are regenerated from committed source data; reference PDFs are retained.
+/experiments/ccus/figures/
+/figures/**/*.png
+/figures/**/*.pdf
+/figures/**/*.svg
+/examples/ellipse/*.png
+/examples/ellipse/*.pdf
+/examples/ellipse/*.svg
+
+/build/
+/dist/
+/experiments/dtlz9/figures/

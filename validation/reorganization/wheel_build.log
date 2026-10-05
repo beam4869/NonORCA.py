@@ -1,0 +1,12 @@
+Processing /workspace/scratch/babab792a596/ORCA
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: orca-objective-reduction
+  Building wheel for orca-objective-reduction (pyproject.toml): started
+  Building wheel for orca-objective-reduction (pyproject.toml): finished with status 'done'
+  Created wheel for orca-objective-reduction: filename=orca_objective_reduction-0.1.0-py3-none-any.whl size=60724 sha256=8d5d0ffd3c4d190a37ab4e5fb24c00eb5e6947330168526edb299713a2e0fd27
+  Stored in directory: /tmp/pip-ephem-wheel-cache-a9j16ywy/wheels/7e/a4/67/85b89ba4c203a021e0e51e85f47eb1d4a9a596d9d487b46269
+Successfully built orca-objective-reduction
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: python -m pip install --upgrade pip

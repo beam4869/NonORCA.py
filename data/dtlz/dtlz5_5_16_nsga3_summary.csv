@@ -1,0 +1,4 @@
+method,objectives,evaluations,total_time_mean_s,total_time_sd_s,approx_hv_mean,approx_hv_sd,empirical_igd_mean,empirical_igd_sd,seeds,orca_time_included
+Full NSGA-III,16,13600,14.84,2.0,2.64,0.266,0.41,0.047,5,no
+ORCA-reduced natural budget,5,3500,4.95,0.74,3.689,0.296,0.174,0.012,5,yes
+ORCA-reduced equal evaluations,5,13615,16.18,2.09,3.891,0.198,0.166,0.009,5,yes

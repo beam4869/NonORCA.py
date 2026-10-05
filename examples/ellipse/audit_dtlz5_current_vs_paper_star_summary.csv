@@ -1,0 +1,3 @@
+case,operator,selected_points,requested_groups,partition,group_sets,expected_group_sets
+"DTLZ5(3,5)",current-code,80,3,"[[5], [1, 2, 3, 4]]","[[1, 2, 3, 4], [5]]","[[1, 2, 3], [4], [5]]"
+"DTLZ5(3,5)",paper-star,80,3,"[[5], [1, 2, 3, 4]]","[[1, 2, 3, 4], [5]]","[[1, 2, 3], [4], [5]]"

@@ -1,0 +1,7 @@
+run_label,replicate,rng_seed,step_size,points_per_seed,selected_points,constraint_handling,objective_i,objective_j,pair,orca_adjacency_01,orca_signed_correlation,total_interaction_weight,active_inequality_interactions,equality_interactions,rank_descending
+pilot,1,17,0.03,3,12,equality_tangent,TAC,TotEmiss,TAC__TotEmiss,0.7807689211286174,0.5615378422572348,436.9000002380038,289,408,2
+pilot,1,17,0.03,3,12,equality_tangent,TAC,ISI,TAC__ISI,0.763531258636999,0.527062517273998,436.98193250457086,289,408,3
+pilot,1,17,0.03,3,12,equality_tangent,TotEmiss,ISI,TotEmiss__ISI,0.8831279803818392,0.7662559607636783,436.9,289,408,1
+pilot,1,17,0.03,3,12,inequalities_only,TAC,TotEmiss,TAC__TotEmiss,0.7815610586743338,0.5631221173486676,28.900000238003788,289,0,2
+pilot,1,17,0.03,3,12,inequalities_only,TAC,ISI,TAC__ISI,0.764908447324788,0.529816894649576,28.981932504570864,289,0,3
+pilot,1,17,0.03,3,12,inequalities_only,TotEmiss,ISI,TotEmiss__ISI,0.8817718526621917,0.7635437053243834,28.89999999999999,289,0,1

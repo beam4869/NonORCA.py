@@ -10,7 +10,7 @@ and carbon capture, utilization, and storage (CCUS) experiments accompanying:
 > Hongxuan Wang and Andrew Allman. *ORCA: The Objective Reduction Community
 > Algorithm for nonlinear many-objective optimization problems.*
 
-[中文说明](README.zh-CN.md) · [API guide](docs/api.md) ·
+[API guide](docs/api.md) ·
 [Reproduce the paper](docs/reproduction.md) ·
 [Figure/table map](docs/reproduction_status.md) · [Known issues](docs/known_issues.md)
 

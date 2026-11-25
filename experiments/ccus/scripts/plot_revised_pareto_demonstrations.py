@@ -128,9 +128,10 @@ def load_data():
         frontier[OBJECTIVES].to_numpy(dtype=float) - lower
     ) / ranges
 
-    orca = pd.read_csv(
-        RESULT_DIR / "direct_use_expansion_paper_aligned_orca_comparison.csv"
-    ).set_index("pair")
+    summary = pd.read_csv(
+        RESULT_DIR / "direct_use_expansion_paper_orca_paper_main_summary.csv"
+    )
+    orca = summary.loc[summary["constraint_handling"].eq("equality_tangent")].set_index("pair")
     return frontier, reduced, lower, ranges, orca
 
 
@@ -385,8 +386,8 @@ def draw_orca_network(ax, orca: pd.DataFrame) -> None:
     source_rows = []
     for node_a, node_b, pair in edges:
         row = orca.loc[pair]
-        adjacency = float(row["paper_adjacency_mean"])
-        signed = float(row["paper_signed_mean"])
+        adjacency = float(row["adjacency_mean"])
+        signed = float(row["signed_mean"])
         start, end = positions[node_a], positions[node_b]
         width = 0.7 + 2.8 * (adjacency - 0.70) / 0.20
         edge_color = "#4477AA" if pair == "TotEmiss__ISI" else "#AAB3C2"

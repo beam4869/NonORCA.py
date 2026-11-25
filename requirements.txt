@@ -1,3 +1,4 @@
-# Python 3.12 validation environment. Historical locks remain in the source folders.
+# Python 3.12 study environment and PDF renderer for Figure 4.
 -r environments/validation/requirements-lock.txt
+reportlab>=4,<5
 -e .

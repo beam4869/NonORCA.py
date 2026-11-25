@@ -426,20 +426,10 @@ def main():
     if PROFILE == "baseline":
         orca = pd.read_csv(RESULT_DIR / "orca_pairwise.csv")
         scenario_orca = orca.loc[orca["scenario"] == "baseline"].set_index("pair")
-    elif PROFILE == "direct_use_expansion":
+    elif PROFILE in {"direct_use_expansion", "supply_chain_condition2"}:
+        label = "paper_main" if PROFILE == "direct_use_expansion" else "condition2_main"
         comparison = pd.read_csv(
-            RESULT_DIR / "direct_use_expansion_paper_aligned_orca_comparison.csv"
-        )
-        scenario_orca = comparison.rename(
-            columns={
-                "paper_adjacency_mean": "orca_adjacency_01",
-                "paper_signed_mean": "orca_signed_correlation",
-            }
-        ).set_index("pair")
-    elif PROFILE == "supply_chain_condition2":
-        comparison = pd.read_csv(
-            RESULT_DIR
-            / "supply_chain_condition2_paper_orca_condition2_main_summary.csv"
+            RESULT_DIR / f"{PROFILE}_paper_orca_{label}_summary.csv"
         )
         comparison = comparison.loc[
             comparison["constraint_handling"].eq("equality_tangent")
